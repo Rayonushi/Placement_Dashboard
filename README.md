@@ -1,2 +1,2 @@
 # Placement_Dashboard
-A Dashboard created in Excel with Insights on Placement of IIDE students from various PG Batches
+A dashboard containing placement data of digital marketing students in Excel. This is a sample data created via mockaroo site: https://www.mockaroo.com/
