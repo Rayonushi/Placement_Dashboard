@@ -1,0 +1,1001 @@
+batch_name,name,placement_status,type,company_name,profile,yearly_salary_cluster,package
+Batch A,Wat Beetles,Placed,Part-time,Oodoo,CopyWriting,2 Lakh - 3 Lakh,67978.49
+Batch B,Marybeth Camelli,Pending,Part-time,Buzzdog,Brand Strategist,5 Lakh - 6 Lakh,44858.75
+Batch A,Madge Roscam,Placed,Part-time,Yakidoo,Digital Marketing,4 Lakh - 5 Lakh,33235.83
+Batch B,Haze Dohmann,Placed,Internship,Rhybox,Email Marketing,4 Lakh - 5 Lakh,66167.84
+Batch B,Aylmer Lowles,Not Placed,Full-time,Yodel,Digital Marketing,2 Lakh - 3 Lakh,64986.32
+Batch A,Shane Cruickshanks,Placed,Full-time,Zooxo,SEO,2 Lakh - 3 Lakh,42860.29
+Batch A,Flory Wem,Pending,Part-time,Eare,Email Marketing,5 Lakh - 6 Lakh,86485.47
+Batch A,Nevin Escalero,Not Placed,Full-time,Avavee,Digital Marketing,2 Lakh - 3 Lakh,34050.45
+Batch A,Wileen Thow,Placed,Part-time,Trunyx,CopyWriting,4 Lakh - 5 Lakh,47300.71
+Batch B,Torey Eggar,Not Placed,Full-time,Demizz,Digital Marketing,3 Lakh - 4 Lakh,87472.96
+Batch B,Neal Hindmoor,Pending,Full-time,Mynte,Brand Strategist,<1 Lakh,65330.35
+Batch C,Bartholomeo Burdis,Not Placed,Full-time,Bubblebox,CopyWriting,<1 Lakh,66961.22
+Batch B,Anette Stoggles,Pending,Full-time,Divanoodle,SEO,2 Lakh - 3 Lakh,98812.71
+Batch A,Kelsey Presshaugh,Not Placed,Part-time,Mycat,Marketing Automation,4 Lakh - 5 Lakh,64981.56
+Batch B,Andy Kelsall,Not Placed,Part-time,Zoombeat,Marketing Automation,5 Lakh - 6 Lakh,78511.09
+Batch C,Chastity Georghiou,Pending,Full-time,Photospace,Digital Marketing,5 Lakh - 6 Lakh,58590.38
+Batch A,Mose Duggan,Pending,Part-time,Edgepulse,Brand Strategist,<1 Lakh,92329.27
+Batch C,Gun Maffin,Not Placed,Full-time,Rhybox,SEO,2 Lakh - 3 Lakh,87309.79
+Batch C,Annadiane Stump,Pending,Full-time,Katz,Brand Strategist,<1 Lakh,79994
+Batch B,Veronika Bertie,Not Placed,Internship,Meemm,Marketing,NA,45365.92
+Batch A,Erwin Habron,Pending,Part-time,Skiba,Brand Strategist,4 Lakh - 5 Lakh,89386.02
+Batch A,Josey Pervoe,Placed,Part-time,Skalith,CopyWriting,4 Lakh - 5 Lakh,60871.71
+Batch A,Cloe Blackmuir,Pending,Full-time,Tagtune,Brand Strategist,<1 Lakh,73755.56
+Batch A,Berty Minghi,Placed,Part-time,Realcube,Marketing,NA,40268.83
+Batch B,Zea Ronchetti,Placed,Part-time,Jabbersphere,Marketing Automation,2 Lakh - 3 Lakh,63578.87
+Batch B,Tabor Creighton,Placed,Full-time,Meembee,Digital Marketing,3 Lakh - 4 Lakh,46235.31
+Batch A,Kylie Bourrel,Not Placed,Full-time,Roombo,Marketing Automation,<1 Lakh,31731.95
+Batch C,Lorin Paynes,Pending,Part-time,Oozz,CopyWriting,4 Lakh - 5 Lakh,30173.92
+Batch B,Phylys Feldmark,Not Placed,Part-time,Quimba,Brand Strategist,3 Lakh - 4 Lakh,32247.23
+Batch B,Dianna Kuhnt,Placed,Internship,Topiclounge,CopyWriting,NA,36949.58
+Batch A,Genni Mussilli,Not Placed,Full-time,Tazzy,Email Marketing,<1 Lakh,46132.48
+Batch A,Tonnie Lindsley,Placed,Part-time,Zoomlounge,Email Marketing,<1 Lakh,72343.47
+Batch A,Neala Giacobelli,Not Placed,Internship,Skivee,CopyWriting,<1 Lakh,91355.16
+Batch B,Tandie Hanbidge,Pending,Part-time,Bluezoom,Brand Strategist,NA,33406.49
+Batch A,Francisca Yanez,Pending,Part-time,Pixope,Marketing,2 Lakh - 3 Lakh,40910.53
+Batch B,Farlee Hynde,Not Placed,Full-time,Yodoo,Brand Strategist,NA,76471.19
+Batch C,Vida Haslehurst,Placed,Full-time,Youfeed,SEO,5 Lakh - 6 Lakh,63654.47
+Batch A,Kerianne Trevers,Not Placed,Internship,Miboo,Marketing Automation,5 Lakh - 6 Lakh,97244.92
+Batch B,Leah Boothman,Not Placed,Internship,Skyndu,Brand Strategist,3 Lakh - 4 Lakh,88243.43
+Batch A,Raff Peerless,Placed,Full-time,Yodel,CopyWriting,2 Lakh - 3 Lakh,48834.41
+Batch B,Donnamarie Burch,Pending,Internship,Bubbletube,Marketing Automation,5 Lakh - 6 Lakh,33744.83
+Batch A,Ranice Whittock,Placed,Internship,Avamm,Email Marketing,2 Lakh - 3 Lakh,58166.97
+Batch A,Rowe Stevenson,Pending,Internship,Twinder,Digital Marketing,3 Lakh - 4 Lakh,98363.42
+Batch B,Kerry McEntegart,Not Placed,Full-time,Feedfish,Brand Strategist,<1 Lakh,73241.4
+Batch B,Ellie Markussen,Pending,Full-time,Edgeify,Marketing,5 Lakh - 6 Lakh,78735.66
+Batch C,Gunner Sharpley,Pending,Part-time,Jaloo,CopyWriting,5 Lakh - 6 Lakh,57182.73
+Batch B,Lek Wisdom,Pending,Part-time,Jaxworks,Marketing Automation,4 Lakh - 5 Lakh,83677.26
+Batch C,Omero Brigg,Pending,Full-time,Devbug,SEO,2 Lakh - 3 Lakh,47312.4
+Batch A,Enid Rumney,Placed,Internship,Skinte,Marketing Automation,3 Lakh - 4 Lakh,44885.88
+Batch B,Pierson Clarke,Pending,Part-time,Bubblebox,Marketing Automation,4 Lakh - 5 Lakh,98635.82
+Batch A,Cinda Whifen,Placed,Internship,Brainbox,Brand Strategist,<1 Lakh,99263.58
+Batch C,Lydia Solman,Not Placed,Internship,Ntag,Email Marketing,2 Lakh - 3 Lakh,97767.05
+Batch C,Brandyn Muirden,Placed,Part-time,Voolith,CopyWriting,5 Lakh - 6 Lakh,82192.51
+Batch C,Mathilda Skippen,Not Placed,Part-time,Vinder,Digital Marketing,4 Lakh - 5 Lakh,63845.67
+Batch B,Granville Whyborne,Placed,Part-time,Devpoint,SEO,3 Lakh - 4 Lakh,44235.12
+Batch C,Farlee Haugh,Not Placed,Internship,Blognation,SEO,NA,60897.57
+Batch A,Lind MacVagh,Pending,Part-time,Avaveo,Marketing,<1 Lakh,93766.04
+Batch C,Mirilla Zealy,Placed,Part-time,Youopia,SEO,4 Lakh - 5 Lakh,91996.54
+Batch B,Lexie Gellately,Pending,Full-time,Ailane,Email Marketing,<1 Lakh,89427.4
+Batch B,Michaelina Syddon,Pending,Full-time,Meevee,Email Marketing,5 Lakh - 6 Lakh,35150.29
+Batch C,Ava Sharplin,Placed,Full-time,Rhynoodle,Marketing,3 Lakh - 4 Lakh,53122.97
+Batch C,Falkner Milam,Not Placed,Part-time,Tazz,CopyWriting,<1 Lakh,46109.21
+Batch C,Jillian Deval,Placed,Internship,Photolist,Email Marketing,<1 Lakh,94071.84
+Batch A,Cordy Moodie,Not Placed,Internship,Mudo,CopyWriting,5 Lakh - 6 Lakh,88266.5
+Batch B,Max Winger,Not Placed,Full-time,Katz,Marketing Automation,3 Lakh - 4 Lakh,60893.16
+Batch B,Bendick Osan,Placed,Full-time,Jaloo,CopyWriting,4 Lakh - 5 Lakh,82684.35
+Batch A,Murdock Rubinlicht,Not Placed,Part-time,Plambee,Marketing Automation,2 Lakh - 3 Lakh,57516.19
+Batch A,Sean Sulland,Placed,Part-time,Kwideo,Marketing,4 Lakh - 5 Lakh,60285.56
+Batch A,Andriana Hylands,Placed,Internship,Eidel,Email Marketing,<1 Lakh,71551.97
+Batch C,Elonore Cornil,Not Placed,Full-time,Eamia,Digital Marketing,<1 Lakh,85116.98
+Batch C,Yorgo Angrick,Placed,Internship,Wikido,Email Marketing,4 Lakh - 5 Lakh,50046.2
+Batch B,Rubin Rockwill,Placed,Internship,Vipe,SEO,<1 Lakh,75642.43
+Batch B,Coletta Bowen,Placed,Part-time,Chatterpoint,Brand Strategist,5 Lakh - 6 Lakh,58658.3
+Batch A,Briny Ziebart,Not Placed,Full-time,Layo,Marketing,2 Lakh - 3 Lakh,86270.14
+Batch B,Ernesta Gullivan,Not Placed,Internship,Zazio,Marketing Automation,2 Lakh - 3 Lakh,38031.91
+Batch B,Alessandro Bricksey,Placed,Part-time,Gigashots,Brand Strategist,3 Lakh - 4 Lakh,45697.38
+Batch B,Darryl Hartburn,Not Placed,Internship,Buzzster,Brand Strategist,5 Lakh - 6 Lakh,42855.44
+Batch C,Stormie Jaggs,Pending,Internship,Tanoodle,Email Marketing,4 Lakh - 5 Lakh,46263.32
+Batch A,Cristiano FitzGeorge,Pending,Part-time,Skynoodle,SEO,NA,87399.18
+Batch C,Bartholemy Mosdell,Not Placed,Full-time,Avaveo,Brand Strategist,NA,79116.31
+Batch A,Townsend Galler,Placed,Internship,Zoomdog,Brand Strategist,2 Lakh - 3 Lakh,68252.32
+Batch A,Chicky Freeborne,Pending,Part-time,Fanoodle,SEO,3 Lakh - 4 Lakh,72773.09
+Batch A,Shawn Gulk,Pending,Internship,Roodel,Brand Strategist,2 Lakh - 3 Lakh,38234.17
+Batch C,Jessika Le Prevost,Placed,Internship,Thoughtbeat,Brand Strategist,<1 Lakh,33266.7
+Batch B,Aristotle Oaten,Placed,Part-time,Skivee,Marketing,5 Lakh - 6 Lakh,84075.27
+Batch A,Claiborn D'Antonio,Placed,Full-time,Einti,Marketing,3 Lakh - 4 Lakh,64954.51
+Batch C,Malory Howbrook,Pending,Internship,Edgewire,Digital Marketing,<1 Lakh,73873.12
+Batch B,Kaycee Gaudon,Not Placed,Part-time,Browsezoom,Digital Marketing,5 Lakh - 6 Lakh,52244.43
+Batch B,Holden Wainscot,Placed,Part-time,Livetube,Digital Marketing,5 Lakh - 6 Lakh,81088.92
+Batch B,Pet Grzegorczyk,Pending,Part-time,Livetube,Brand Strategist,<1 Lakh,89326.34
+Batch A,Tandi Giamitti,Not Placed,Part-time,Quire,Marketing,3 Lakh - 4 Lakh,70778.66
+Batch B,Giffie Ilive,Pending,Full-time,Blognation,Email Marketing,4 Lakh - 5 Lakh,77571.64
+Batch A,Valentin Kochel,Not Placed,Internship,Katz,CopyWriting,<1 Lakh,69956.81
+Batch B,Aluino Hrishchenko,Not Placed,Full-time,Tagpad,Marketing,4 Lakh - 5 Lakh,85705.68
+Batch C,Chryste Axel,Not Placed,Part-time,Zoovu,Email Marketing,NA,60328.25
+Batch B,Massimiliano Crossby,Pending,Part-time,Linktype,Marketing Automation,5 Lakh - 6 Lakh,33054.01
+Batch B,Coleman MacGettigen,Placed,Part-time,Jabbersphere,Brand Strategist,<1 Lakh,30052.64
+Batch C,Gael Goozee,Placed,Internship,Jatri,Email Marketing,<1 Lakh,98954.25
+Batch C,Kelly Slack,Pending,Full-time,Yamia,Brand Strategist,NA,35951.22
+Batch C,Nikolas Drewett,Pending,Part-time,Brainverse,Digital Marketing,NA,67796.22
+Batch A,Linea Capun,Not Placed,Part-time,Feedmix,Digital Marketing,4 Lakh - 5 Lakh,83149.02
+Batch C,Yves Dimeloe,Pending,Internship,Skivee,Email Marketing,2 Lakh - 3 Lakh,57953.71
+Batch A,Arleen Weaving,Pending,Internship,Dynazzy,CopyWriting,<1 Lakh,75353.94
+Batch B,Linn Nairns,Placed,Part-time,Leenti,Marketing,3 Lakh - 4 Lakh,63922.21
+Batch C,Wye Roycroft,Pending,Full-time,Tazzy,SEO,NA,73224.23
+Batch C,Clayton Betun,Pending,Internship,Eazzy,Marketing Automation,<1 Lakh,62071.25
+Batch A,Reidar Alwell,Placed,Internship,Thoughtstorm,Brand Strategist,<1 Lakh,54096.52
+Batch C,Carleen Jankovsky,Placed,Internship,Zoonoodle,Marketing,NA,62333.21
+Batch C,Louis Annear,Placed,Full-time,Oyoba,Email Marketing,<1 Lakh,97869.44
+Batch B,Bennie Guly,Pending,Internship,Tagfeed,SEO,3 Lakh - 4 Lakh,30553.39
+Batch A,Margareta Morrow,Placed,Part-time,Dazzlesphere,Brand Strategist,3 Lakh - 4 Lakh,78730.29
+Batch C,Nial Engall,Placed,Part-time,Shuffletag,Marketing,3 Lakh - 4 Lakh,60583.9
+Batch B,Tamqrah McGlue,Placed,Part-time,Flipopia,CopyWriting,3 Lakh - 4 Lakh,50382.92
+Batch A,Fredra Elwel,Not Placed,Internship,Rhyzio,CopyWriting,5 Lakh - 6 Lakh,94304.17
+Batch C,Sonja De Micoli,Placed,Part-time,Edgetag,Marketing,<1 Lakh,84401.66
+Batch C,Ag Babon,Placed,Part-time,Avamm,Marketing Automation,2 Lakh - 3 Lakh,65973.01
+Batch B,Cherilynn McLane,Pending,Full-time,Jabbercube,Email Marketing,<1 Lakh,66567.51
+Batch B,Corly Asp,Placed,Part-time,Blogtag,Marketing Automation,<1 Lakh,89506.44
+Batch B,Jodee Morbey,Not Placed,Internship,Topiclounge,Email Marketing,<1 Lakh,95267.2
+Batch B,Gus Sheran,Not Placed,Full-time,Zoomzone,Digital Marketing,4 Lakh - 5 Lakh,70336.41
+Batch A,Skelly Wackett,Placed,Full-time,Voonix,CopyWriting,<1 Lakh,46333.42
+Batch B,Alvinia Lantaff,Pending,Part-time,Tagchat,Digital Marketing,NA,83338.43
+Batch C,Melvyn Olivey,Placed,Internship,Thoughtstorm,SEO,4 Lakh - 5 Lakh,35913.82
+Batch C,Gabe Mereweather,Placed,Internship,Linklinks,Marketing Automation,4 Lakh - 5 Lakh,82928.45
+Batch B,Rube Blakemore,Pending,Full-time,Skippad,Digital Marketing,3 Lakh - 4 Lakh,63065.07
+Batch A,Wilt Saphin,Not Placed,Full-time,Rhybox,Marketing,5 Lakh - 6 Lakh,32695.84
+Batch C,Tudor Melpuss,Placed,Part-time,Tagchat,Email Marketing,NA,69683.69
+Batch B,Ivonne Finby,Placed,Part-time,Pixoboo,SEO,5 Lakh - 6 Lakh,56228.31
+Batch B,Alistair Miles,Pending,Part-time,Zazio,Marketing Automation,3 Lakh - 4 Lakh,91427.67
+Batch B,Clark Beck,Pending,Internship,Twitterworks,Brand Strategist,<1 Lakh,37279.28
+Batch C,Averil Bowcock,Not Placed,Full-time,Demimbu,Brand Strategist,<1 Lakh,83091.16
+Batch B,Augusta Woodbridge,Pending,Part-time,Fivechat,Digital Marketing,<1 Lakh,48537.33
+Batch B,Eustace Battisson,Placed,Part-time,Rhycero,Brand Strategist,4 Lakh - 5 Lakh,65391.24
+Batch A,Kelley Classen,Not Placed,Full-time,Skyvu,SEO,<1 Lakh,91660.18
+Batch B,Valencia Dyke,Not Placed,Internship,Dynava,Email Marketing,4 Lakh - 5 Lakh,98825.61
+Batch C,Monah Endicott,Not Placed,Internship,Photobug,Email Marketing,4 Lakh - 5 Lakh,81650.88
+Batch C,Lita Wabb,Placed,Internship,Babbleset,SEO,NA,95296.81
+Batch B,Odey Bowdon,Pending,Internship,Voomm,CopyWriting,3 Lakh - 4 Lakh,87576.79
+Batch C,Greggory Oakshott,Pending,Part-time,Layo,Email Marketing,4 Lakh - 5 Lakh,78971.17
+Batch A,Antonio Darnell,Not Placed,Full-time,Myworks,Marketing Automation,<1 Lakh,36577.75
+Batch B,Giacinta Noddle,Placed,Internship,Kamba,SEO,<1 Lakh,92367.32
+Batch A,Agosto Krook,Not Placed,Internship,Youopia,Email Marketing,2 Lakh - 3 Lakh,86054.82
+Batch B,Thurstan Deinhardt,Placed,Internship,Gigabox,Marketing,5 Lakh - 6 Lakh,44341.82
+Batch A,Stevena Fairham,Pending,Full-time,Roomm,SEO,2 Lakh - 3 Lakh,73298.41
+Batch A,Merwin Surgood,Not Placed,Full-time,Voolith,CopyWriting,2 Lakh - 3 Lakh,79478.15
+Batch A,Madalena Zoren,Not Placed,Part-time,Dynabox,SEO,2 Lakh - 3 Lakh,84682.63
+Batch C,Lannie Risson,Placed,Internship,Dabfeed,Digital Marketing,NA,77854.27
+Batch C,Rozanne Bradneck,Pending,Part-time,Feedbug,Email Marketing,4 Lakh - 5 Lakh,40143.39
+Batch C,Marrissa Feldhuhn,Pending,Internship,Flashspan,Email Marketing,NA,62041.22
+Batch A,Jesselyn Holley,Pending,Internship,Topicblab,Email Marketing,<1 Lakh,65666.53
+Batch B,Melisandra Inderwick,Not Placed,Full-time,Cogidoo,Brand Strategist,4 Lakh - 5 Lakh,52138.38
+Batch B,Dorette Ramsell,Placed,Full-time,Shuffledrive,Marketing,3 Lakh - 4 Lakh,86257.57
+Batch B,Montgomery Spandley,Not Placed,Full-time,Blogtag,Digital Marketing,<1 Lakh,91689.69
+Batch A,Nichole Frounks,Not Placed,Full-time,Buzzbean,CopyWriting,NA,95087.41
+Batch C,Rossy Dickerline,Placed,Internship,Kare,Digital Marketing,5 Lakh - 6 Lakh,54274.83
+Batch B,Charin Aberkirdo,Placed,Part-time,Cogidoo,Marketing Automation,<1 Lakh,47614.37
+Batch C,Brander Woolley,Pending,Part-time,Flipopia,CopyWriting,<1 Lakh,72624.66
+Batch C,Arabel Calcut,Placed,Part-time,Vidoo,Digital Marketing,2 Lakh - 3 Lakh,42732.3
+Batch C,Kenon Snewin,Pending,Part-time,Mybuzz,Email Marketing,NA,33448.13
+Batch B,Gawain Tuerena,Pending,Internship,Abata,CopyWriting,<1 Lakh,84483.09
+Batch A,Karrie Van Arsdale,Pending,Full-time,Dabfeed,Marketing Automation,<1 Lakh,85360.05
+Batch A,Devinne Belliard,Pending,Part-time,Dazzlesphere,Email Marketing,4 Lakh - 5 Lakh,66419.33
+Batch B,Minne Wass,Not Placed,Part-time,Eamia,Email Marketing,<1 Lakh,44824.91
+Batch C,Jolie Corradino,Pending,Part-time,Browseblab,Marketing Automation,NA,52485.74
+Batch B,Lelia Worcester,Pending,Full-time,Oyoyo,Marketing Automation,<1 Lakh,38612.19
+Batch B,Emmerich Rubinchik,Pending,Part-time,Jabbersphere,SEO,3 Lakh - 4 Lakh,69164.72
+Batch C,Reider O'Dunneen,Not Placed,Part-time,Topicshots,Marketing,NA,87012.45
+Batch C,Arvie Buten,Not Placed,Full-time,Meemm,Marketing Automation,5 Lakh - 6 Lakh,61569.65
+Batch C,Booth Vassay,Not Placed,Full-time,Tagtune,Digital Marketing,5 Lakh - 6 Lakh,48400.4
+Batch A,Korey Rugg,Placed,Full-time,Avamm,Digital Marketing,3 Lakh - 4 Lakh,35093.03
+Batch A,Lillis Baptista,Placed,Part-time,Devcast,Marketing Automation,2 Lakh - 3 Lakh,35890.16
+Batch C,Ninon Djurdjevic,Not Placed,Internship,Bluejam,Email Marketing,NA,79106.54
+Batch B,Mary Seakin,Pending,Part-time,Mita,SEO,4 Lakh - 5 Lakh,38668.13
+Batch B,Alexandrina Da Costa,Pending,Internship,Twitternation,Marketing,3 Lakh - 4 Lakh,32990.97
+Batch B,Dacie Hennington,Not Placed,Internship,Bubblemix,Digital Marketing,NA,40969.84
+Batch A,Alphonse Cosstick,Not Placed,Full-time,Jabbersphere,Email Marketing,<1 Lakh,95122.67
+Batch B,Emlynne Frearson,Pending,Internship,Plajo,CopyWriting,<1 Lakh,80340.25
+Batch C,Lilia Lambswood,Not Placed,Part-time,DabZ,SEO,2 Lakh - 3 Lakh,90118.1
+Batch B,Koressa Yankin,Pending,Internship,Photolist,Brand Strategist,4 Lakh - 5 Lakh,32667.97
+Batch A,Billie Arunowicz,Placed,Part-time,Vidoo,Email Marketing,3 Lakh - 4 Lakh,49084.65
+Batch C,Nathanael Silverston,Pending,Internship,Devcast,SEO,4 Lakh - 5 Lakh,98960.2
+Batch A,Debbi Ronnay,Placed,Internship,Devbug,SEO,3 Lakh - 4 Lakh,60765.74
+Batch B,Kipp Dominguez,Not Placed,Part-time,Thoughtblab,SEO,4 Lakh - 5 Lakh,83018.58
+Batch A,Alissa Emanuel,Pending,Full-time,Tazz,Brand Strategist,<1 Lakh,78130.11
+Batch C,Kimbra Compfort,Not Placed,Internship,Rhycero,Email Marketing,4 Lakh - 5 Lakh,98925.89
+Batch B,Marcellina Capelow,Placed,Part-time,Eayo,Email Marketing,NA,77490.65
+Batch B,Samantha Baudinot,Pending,Full-time,Fivechat,Brand Strategist,2 Lakh - 3 Lakh,33086.41
+Batch B,Nat Ather,Pending,Part-time,Divanoodle,Brand Strategist,NA,96078.81
+Batch C,Gaylene Chastang,Pending,Full-time,Gigaclub,Marketing Automation,<1 Lakh,62717.86
+Batch C,Jeremie MacInerney,Pending,Part-time,Leenti,Digital Marketing,5 Lakh - 6 Lakh,57528.65
+Batch A,Crista Heilds,Not Placed,Internship,Pixonyx,Marketing Automation,NA,80274.52
+Batch B,Maxie Van der Krui,Not Placed,Internship,Eare,Marketing,2 Lakh - 3 Lakh,45963.09
+Batch B,Mora Wigmore,Placed,Full-time,Twitterbeat,SEO,4 Lakh - 5 Lakh,48302.49
+Batch A,Logan Cubbinelli,Placed,Internship,Linklinks,Brand Strategist,5 Lakh - 6 Lakh,44090.5
+Batch C,Alphard Scamal,Placed,Part-time,Mita,Marketing,3 Lakh - 4 Lakh,79141.97
+Batch A,Carmel Ullyatt,Not Placed,Full-time,Flashdog,Marketing,2 Lakh - 3 Lakh,32307.85
+Batch A,Giavani Joly,Placed,Part-time,Jabbercube,CopyWriting,<1 Lakh,92937.39
+Batch A,Bernadene Conwell,Not Placed,Internship,Mynte,Digital Marketing,3 Lakh - 4 Lakh,78662.96
+Batch A,Mady Smeeth,Pending,Full-time,Vinte,SEO,<1 Lakh,75334.58
+Batch A,Darrel Naseby,Placed,Part-time,Browsetype,Email Marketing,4 Lakh - 5 Lakh,90850.3
+Batch B,Woodman Tothacot,Placed,Full-time,Skibox,Brand Strategist,<1 Lakh,72537.84
+Batch C,Gillan McCaig,Placed,Full-time,Wikizz,SEO,4 Lakh - 5 Lakh,67127.96
+Batch A,Zachary Rimes,Pending,Full-time,DabZ,Digital Marketing,3 Lakh - 4 Lakh,47943.35
+Batch C,Gabbie Gritsaev,Pending,Full-time,Voomm,Brand Strategist,5 Lakh - 6 Lakh,90277.41
+Batch A,Barclay Eschalotte,Placed,Part-time,Meemm,CopyWriting,5 Lakh - 6 Lakh,65750.67
+Batch A,Nick De Cristofalo,Pending,Part-time,Wordify,Digital Marketing,3 Lakh - 4 Lakh,92888.9
+Batch A,Hillard Bryett,Placed,Internship,Ntag,CopyWriting,4 Lakh - 5 Lakh,71251.52
+Batch A,Lynelle Gerlts,Placed,Internship,Gabvine,Digital Marketing,2 Lakh - 3 Lakh,63879.3
+Batch C,Jerald Le land,Pending,Full-time,Muxo,Marketing,<1 Lakh,42631.38
+Batch C,Hansiain Ondrak,Pending,Part-time,Roomm,Brand Strategist,2 Lakh - 3 Lakh,59261.34
+Batch C,Kelsy Allnatt,Placed,Part-time,Blogtags,Email Marketing,2 Lakh - 3 Lakh,78827.35
+Batch B,Alix Spinello,Not Placed,Internship,Oozz,Brand Strategist,<1 Lakh,89747.17
+Batch B,Davida Welton,Placed,Part-time,Photobug,SEO,5 Lakh - 6 Lakh,31990.91
+Batch A,Ferris Keegan,Pending,Full-time,Trupe,Digital Marketing,<1 Lakh,85628.66
+Batch C,Farica Torres,Not Placed,Full-time,Meembee,Marketing,<1 Lakh,52405.52
+Batch A,Jo ann Condliffe,Placed,Internship,Twimm,SEO,2 Lakh - 3 Lakh,45101.69
+Batch B,Fields Vaggs,Placed,Internship,Trudeo,Email Marketing,5 Lakh - 6 Lakh,46113.11
+Batch B,Emory Parmley,Not Placed,Full-time,Blogspan,CopyWriting,2 Lakh - 3 Lakh,61373.08
+Batch A,Carol-jean Binner,Placed,Part-time,Latz,Brand Strategist,3 Lakh - 4 Lakh,93425.43
+Batch C,Essy Anstey,Not Placed,Internship,Realpoint,SEO,4 Lakh - 5 Lakh,84578.39
+Batch B,Billy Kennifick,Not Placed,Full-time,Devpulse,CopyWriting,NA,58659.59
+Batch A,Rogerio Rustidge,Pending,Full-time,Dynava,SEO,<1 Lakh,66915.05
+Batch B,Isidor Demcak,Not Placed,Full-time,Yamia,Email Marketing,<1 Lakh,94476.16
+Batch B,Hedvig Martins,Placed,Full-time,Voomm,CopyWriting,3 Lakh - 4 Lakh,78696.44
+Batch C,Phylys Shave,Placed,Internship,Skynoodle,Email Marketing,NA,48607.4
+Batch C,Carita Peetermann,Not Placed,Full-time,Meevee,CopyWriting,NA,46591.11
+Batch A,Nerta Girton,Placed,Internship,Jaxspan,Marketing,4 Lakh - 5 Lakh,81992.24
+Batch C,Jany Horsfield,Not Placed,Internship,Digitube,Digital Marketing,2 Lakh - 3 Lakh,56092.74
+Batch B,Bar Couvert,Not Placed,Full-time,Dynabox,Digital Marketing,4 Lakh - 5 Lakh,79029.46
+Batch B,Hillel Whorlton,Placed,Full-time,Rhycero,Marketing Automation,NA,45810.95
+Batch B,Lief McQuilty,Not Placed,Full-time,Plambee,Brand Strategist,3 Lakh - 4 Lakh,61956.61
+Batch A,Chrisy Scoyne,Not Placed,Full-time,Katz,Digital Marketing,NA,44531.08
+Batch A,Lilith Bennit,Pending,Part-time,Mynte,Marketing,<1 Lakh,59181.83
+Batch B,Torry Carmo,Placed,Part-time,Roomm,Brand Strategist,3 Lakh - 4 Lakh,34737.13
+Batch C,Nita Feighney,Pending,Part-time,Reallinks,CopyWriting,5 Lakh - 6 Lakh,53263.6
+Batch A,Giacinta Wilcocke,Pending,Internship,Jayo,Marketing Automation,NA,72758.1
+Batch A,Darn Caudrelier,Placed,Part-time,Gigabox,Brand Strategist,2 Lakh - 3 Lakh,75925.07
+Batch C,Gaby Earsman,Not Placed,Full-time,Feedspan,Email Marketing,NA,81918.18
+Batch B,Kassandra Boath,Placed,Part-time,Youtags,Marketing,<1 Lakh,55146.09
+Batch B,Corabel Siddaley,Not Placed,Internship,Wordify,CopyWriting,<1 Lakh,71283.26
+Batch B,Evita Willars,Pending,Part-time,Avamm,Digital Marketing,3 Lakh - 4 Lakh,36911.26
+Batch B,Kristine Murphy,Placed,Full-time,Bubblemix,Marketing Automation,2 Lakh - 3 Lakh,94613.51
+Batch A,Sharline Dobrowolny,Not Placed,Part-time,Eire,Digital Marketing,3 Lakh - 4 Lakh,89063.12
+Batch B,Fredia Ellwell,Pending,Internship,Jaloo,Brand Strategist,<1 Lakh,45755.93
+Batch C,Adrianna Feaveer,Placed,Full-time,Flipopia,Digital Marketing,NA,93499.16
+Batch A,Aurea Longson,Placed,Full-time,Linklinks,SEO,2 Lakh - 3 Lakh,35639.68
+Batch B,Faydra Exrol,Not Placed,Internship,Eidel,Brand Strategist,3 Lakh - 4 Lakh,33007.09
+Batch B,Humberto Josefsson,Not Placed,Internship,Photolist,Brand Strategist,5 Lakh - 6 Lakh,81249.92
+Batch B,Stevana Whistlecroft,Not Placed,Internship,Flipopia,Brand Strategist,5 Lakh - 6 Lakh,92134.53
+Batch C,Emilia Leyfield,Placed,Part-time,Eire,Brand Strategist,4 Lakh - 5 Lakh,45166.76
+Batch C,Iona Raeside,Placed,Part-time,Wikido,CopyWriting,4 Lakh - 5 Lakh,44671.4
+Batch B,Sybyl Beeke,Placed,Full-time,Blogspan,SEO,<1 Lakh,76451.76
+Batch A,Margy Adlem,Pending,Full-time,Viva,Marketing,3 Lakh - 4 Lakh,41784.61
+Batch A,Perice Pinor,Not Placed,Full-time,Linktype,Digital Marketing,2 Lakh - 3 Lakh,59332.62
+Batch C,Beatrice Pakenham,Placed,Internship,Zooveo,Marketing Automation,2 Lakh - 3 Lakh,99362.69
+Batch A,Yankee Jandac,Not Placed,Internship,Skyba,Brand Strategist,5 Lakh - 6 Lakh,97476.5
+Batch C,Frans Fulton,Not Placed,Internship,Devbug,Email Marketing,2 Lakh - 3 Lakh,88913.53
+Batch A,Bertrand Oakman,Not Placed,Internship,Izio,Marketing,NA,95916.29
+Batch A,Tabby Thomen,Not Placed,Part-time,Jabbersphere,Digital Marketing,5 Lakh - 6 Lakh,34467
+Batch C,Nicoline Gravell,Pending,Full-time,Kare,Brand Strategist,<1 Lakh,50851.55
+Batch B,Dorie Stormonth,Placed,Part-time,Fadeo,Marketing,5 Lakh - 6 Lakh,36030.82
+Batch C,Tabb Challoner,Placed,Internship,Babblestorm,Email Marketing,<1 Lakh,92888.89
+Batch A,Scarlett Grimme,Pending,Part-time,Gabtune,Email Marketing,5 Lakh - 6 Lakh,70972.88
+Batch B,Erda Gauchier,Pending,Full-time,Tanoodle,CopyWriting,<1 Lakh,52212.06
+Batch B,Merlina Tift,Placed,Internship,Jabbercube,Marketing,5 Lakh - 6 Lakh,59106.45
+Batch C,Natale Eltringham,Pending,Part-time,Trudeo,Email Marketing,<1 Lakh,39640.08
+Batch B,Davine Savin,Not Placed,Full-time,Twitternation,Digital Marketing,2 Lakh - 3 Lakh,91492.92
+Batch C,Lorri Nolleau,Placed,Full-time,Devpulse,Brand Strategist,4 Lakh - 5 Lakh,39745.09
+Batch C,Clem Schofield,Pending,Internship,Meeveo,CopyWriting,2 Lakh - 3 Lakh,65698.22
+Batch A,Winona Sprull,Pending,Part-time,Zoomdog,Marketing,5 Lakh - 6 Lakh,65520.04
+Batch C,Rolfe Sidworth,Placed,Internship,Twitterbridge,Digital Marketing,5 Lakh - 6 Lakh,38064.07
+Batch C,Cally Anfusso,Not Placed,Full-time,Gigabox,Marketing Automation,<1 Lakh,95997.47
+Batch C,Issiah Byllam,Pending,Internship,Zoonoodle,Brand Strategist,2 Lakh - 3 Lakh,95332.15
+Batch C,Dael Clair,Placed,Full-time,Jazzy,CopyWriting,3 Lakh - 4 Lakh,45094.28
+Batch A,Marcia Steger,Placed,Part-time,Linktype,Marketing Automation,NA,62934.67
+Batch A,Neila Bruckman,Not Placed,Full-time,Brightbean,SEO,2 Lakh - 3 Lakh,99823.71
+Batch C,Corrianne Bruty,Pending,Part-time,Avaveo,Email Marketing,2 Lakh - 3 Lakh,54801.04
+Batch A,Erinn St Ange,Pending,Internship,Jetwire,SEO,5 Lakh - 6 Lakh,83481.53
+Batch C,Byron Spurrier,Not Placed,Full-time,Talane,CopyWriting,2 Lakh - 3 Lakh,78995.06
+Batch C,Desmund Koppen,Not Placed,Internship,Thoughtbeat,Brand Strategist,2 Lakh - 3 Lakh,56337.57
+Batch B,Otis Dumphrey,Not Placed,Full-time,Skimia,Marketing,3 Lakh - 4 Lakh,68334.71
+Batch C,Townie Goaley,Not Placed,Internship,Innojam,Marketing,2 Lakh - 3 Lakh,48082.97
+Batch C,Aldous Arrault,Placed,Part-time,Izio,Digital Marketing,5 Lakh - 6 Lakh,80850.02
+Batch C,Leland Tooher,Placed,Part-time,Dabvine,Email Marketing,3 Lakh - 4 Lakh,70240.14
+Batch B,Gianni Brayley,Pending,Internship,Jabbertype,Marketing,5 Lakh - 6 Lakh,88249.34
+Batch C,Ogden Pashley,Placed,Part-time,Dazzlesphere,SEO,NA,50132.36
+Batch A,Sibby Breffitt,Not Placed,Internship,Topiczoom,Brand Strategist,4 Lakh - 5 Lakh,81297.94
+Batch B,Danny Millwall,Placed,Full-time,Shufflester,Marketing Automation,NA,43876.88
+Batch C,Obidiah Falkus,Placed,Full-time,Jabbercube,Marketing Automation,3 Lakh - 4 Lakh,91658.97
+Batch A,Hadlee Bakhrushkin,Placed,Full-time,Zoozzy,Marketing,4 Lakh - 5 Lakh,80533.7
+Batch B,Alanah Stockley,Pending,Full-time,Kwilith,Marketing,NA,68757.27
+Batch C,Jeannine Jozwiak,Not Placed,Full-time,Demimbu,SEO,5 Lakh - 6 Lakh,51781.4
+Batch C,Jerry Doodney,Not Placed,Part-time,Zoomzone,Marketing Automation,<1 Lakh,66590.54
+Batch A,Carry Rowen,Placed,Full-time,Skiptube,SEO,NA,88845.28
+Batch B,Yehudi Unwin,Not Placed,Part-time,Yodo,SEO,5 Lakh - 6 Lakh,94672.99
+Batch C,Krispin MacRanald,Not Placed,Full-time,Yodel,CopyWriting,5 Lakh - 6 Lakh,35645.7
+Batch A,Karleen Pentercost,Pending,Full-time,Topiczoom,Marketing Automation,3 Lakh - 4 Lakh,73219.67
+Batch A,Francis Euels,Pending,Part-time,DabZ,CopyWriting,4 Lakh - 5 Lakh,49667.3
+Batch A,Shayla Schirak,Not Placed,Full-time,Shuffledrive,Digital Marketing,<1 Lakh,64351.24
+Batch B,Scot Scantleberry,Placed,Part-time,Edgeify,CopyWriting,4 Lakh - 5 Lakh,68826.64
+Batch C,Maude Gooch,Not Placed,Part-time,Buzzster,Brand Strategist,NA,52342.57
+Batch A,Hussein Allflatt,Placed,Part-time,Jaxspan,Marketing Automation,<1 Lakh,48617.25
+Batch C,Odelinda Carlaw,Pending,Part-time,Zoomcast,Marketing Automation,5 Lakh - 6 Lakh,97082.25
+Batch B,Isobel Danforth,Pending,Internship,Devshare,Digital Marketing,4 Lakh - 5 Lakh,52228.2
+Batch B,Terrijo Currington,Not Placed,Part-time,Zoonder,Marketing Automation,<1 Lakh,79923.54
+Batch B,Chick de Savery,Placed,Part-time,Oodoo,Marketing,3 Lakh - 4 Lakh,54026.5
+Batch A,Rickard Matyushonok,Not Placed,Part-time,Yata,Marketing,NA,73160.17
+Batch C,Olly Thurlbourne,Pending,Internship,Realblab,Email Marketing,<1 Lakh,80419.56
+Batch A,Mata Carnachen,Placed,Part-time,Youbridge,Digital Marketing,NA,39098.51
+Batch B,Nicki Albon,Placed,Full-time,Trilia,CopyWriting,2 Lakh - 3 Lakh,77847.3
+Batch C,Rey Lukas,Pending,Internship,Twinder,Marketing Automation,NA,59824.99
+Batch A,Livvyy Mearing,Not Placed,Internship,Riffpath,Brand Strategist,<1 Lakh,67408.42
+Batch A,Austin Moat,Placed,Part-time,Photojam,Digital Marketing,3 Lakh - 4 Lakh,79490.5
+Batch A,Archer Fremantle,Pending,Internship,Photofeed,Email Marketing,2 Lakh - 3 Lakh,56336.38
+Batch C,Kellby Poytres,Not Placed,Internship,DabZ,Marketing,<1 Lakh,77099.19
+Batch C,Mame Knath,Pending,Internship,Geba,Digital Marketing,3 Lakh - 4 Lakh,71222.86
+Batch A,Bobby Huntington,Pending,Part-time,Wikido,Marketing,<1 Lakh,34659.73
+Batch B,Doe Hounsome,Pending,Part-time,Flashset,Marketing Automation,2 Lakh - 3 Lakh,35768.65
+Batch C,Jill Heinemann,Placed,Part-time,Meeveo,Marketing,5 Lakh - 6 Lakh,66605.68
+Batch C,Renard Fallowfield,Pending,Full-time,Ailane,Marketing Automation,3 Lakh - 4 Lakh,48619.24
+Batch C,Matias Nappin,Placed,Full-time,Fiveclub,Email Marketing,NA,62461.31
+Batch A,Annabal Antos,Placed,Full-time,Yoveo,SEO,3 Lakh - 4 Lakh,59115.02
+Batch C,Neal Barney,Placed,Part-time,Jaxnation,Marketing,NA,38835.43
+Batch C,Vaclav Talmadge,Not Placed,Internship,Zoomcast,Marketing,4 Lakh - 5 Lakh,67146.22
+Batch A,Percy Gillyett,Placed,Full-time,Twitterbridge,Marketing,3 Lakh - 4 Lakh,33780.36
+Batch B,Kris Kiddell,Pending,Part-time,Blognation,Email Marketing,NA,69471.18
+Batch A,Jacky Balling,Pending,Part-time,Ooba,Brand Strategist,4 Lakh - 5 Lakh,70893.61
+Batch A,Gelya Casserley,Not Placed,Part-time,Topdrive,Email Marketing,2 Lakh - 3 Lakh,59185.82
+Batch A,Rosalynd Thirst,Placed,Part-time,Zoovu,Marketing Automation,4 Lakh - 5 Lakh,51130.76
+Batch B,Ambros Apthorpe,Pending,Part-time,Oodoo,Email Marketing,2 Lakh - 3 Lakh,91994.55
+Batch B,Brigham Littlekit,Not Placed,Full-time,Yoveo,Marketing,4 Lakh - 5 Lakh,90570.59
+Batch B,Susi Howarth,Pending,Part-time,Bluezoom,Marketing,3 Lakh - 4 Lakh,54356.49
+Batch C,Lindsey Tullot,Pending,Full-time,Ainyx,Brand Strategist,2 Lakh - 3 Lakh,92336.87
+Batch A,Glennie Tattershall,Placed,Internship,Feedbug,Marketing,5 Lakh - 6 Lakh,59269.18
+Batch A,George Meere,Placed,Internship,Skyba,Digital Marketing,NA,39183.84
+Batch B,Caleb Greenham,Pending,Part-time,Thoughtbeat,Marketing,3 Lakh - 4 Lakh,47596.33
+Batch B,Hannis Harner,Pending,Internship,Pixonyx,Marketing Automation,NA,96001.24
+Batch C,Chantal Kiley,Placed,Internship,Miboo,SEO,3 Lakh - 4 Lakh,69858.07
+Batch B,Jonathan Fontanet,Pending,Internship,Oyonder,Digital Marketing,5 Lakh - 6 Lakh,83721.16
+Batch B,Jacob Garrow,Pending,Internship,Avavee,SEO,2 Lakh - 3 Lakh,60980.73
+Batch A,Delmore Blanshard,Placed,Part-time,Podcat,CopyWriting,5 Lakh - 6 Lakh,47151.91
+Batch C,Chryste Prothero,Pending,Full-time,Youfeed,Email Marketing,<1 Lakh,69395
+Batch C,Esme Alcock,Placed,Internship,Camimbo,CopyWriting,2 Lakh - 3 Lakh,68430.27
+Batch B,Nikki Wrankling,Placed,Part-time,Yata,Email Marketing,3 Lakh - 4 Lakh,99345
+Batch A,Ceciley Allebone,Pending,Part-time,Twinder,CopyWriting,NA,58252.93
+Batch C,Ranee Raulin,Pending,Part-time,Mudo,CopyWriting,NA,96891.66
+Batch C,Agatha Scholes,Placed,Part-time,Edgeify,CopyWriting,<1 Lakh,57103.37
+Batch A,Mair Winckles,Pending,Full-time,Shuffletag,Digital Marketing,2 Lakh - 3 Lakh,53091.16
+Batch B,Darb Hinners,Pending,Full-time,Brightbean,Brand Strategist,2 Lakh - 3 Lakh,98713.9
+Batch C,Donica Baudacci,Pending,Internship,Fivebridge,SEO,<1 Lakh,75411.1
+Batch B,Ermanno Forgan,Not Placed,Part-time,Oyoyo,Marketing Automation,<1 Lakh,44154.78
+Batch B,Clary Booley,Not Placed,Part-time,Babbleset,CopyWriting,3 Lakh - 4 Lakh,92356.25
+Batch C,Kaylil Espadero,Pending,Full-time,Rooxo,CopyWriting,NA,75121.3
+Batch A,Nickola Jukubczak,Not Placed,Internship,Eire,Brand Strategist,2 Lakh - 3 Lakh,86014.41
+Batch C,Cassondra Balaizot,Not Placed,Internship,Skyba,Digital Marketing,NA,68807.87
+Batch B,Waly La Torre,Placed,Full-time,Feedmix,Brand Strategist,3 Lakh - 4 Lakh,45102.73
+Batch B,Bettine Cops,Pending,Full-time,Centidel,Brand Strategist,4 Lakh - 5 Lakh,85772.33
+Batch C,Tarah Bunton,Placed,Full-time,Aimbu,Digital Marketing,4 Lakh - 5 Lakh,88145.52
+Batch B,Pennie Castlake,Placed,Internship,Riffwire,CopyWriting,2 Lakh - 3 Lakh,39527.1
+Batch C,Conny Gleader,Pending,Part-time,Yabox,Digital Marketing,5 Lakh - 6 Lakh,76469.07
+Batch C,Farra Brewse,Not Placed,Internship,Fiveclub,Brand Strategist,<1 Lakh,87264.52
+Batch B,Berri Duligall,Placed,Internship,Skivee,CopyWriting,NA,94522.02
+Batch A,Agnes France,Not Placed,Internship,Zazio,Marketing,5 Lakh - 6 Lakh,41817.2
+Batch A,Thayne Gask,Placed,Part-time,Meedoo,Email Marketing,5 Lakh - 6 Lakh,39038.11
+Batch C,Corrie McQuin,Placed,Internship,Topicware,CopyWriting,NA,95432.24
+Batch B,Bruis Orr,Placed,Internship,Voomm,CopyWriting,<1 Lakh,42039.77
+Batch C,Emlynne MacLoughlin,Pending,Full-time,Kaymbo,Marketing,2 Lakh - 3 Lakh,73634.19
+Batch C,Creight Feeney,Pending,Internship,Dynabox,SEO,2 Lakh - 3 Lakh,48036.16
+Batch B,Alane Pragnell,Placed,Internship,Gigabox,CopyWriting,4 Lakh - 5 Lakh,60355.37
+Batch A,Heidie Filipowicz,Pending,Full-time,Realmix,Marketing,NA,59622.24
+Batch C,Wilton Janaud,Placed,Full-time,Kayveo,Brand Strategist,<1 Lakh,34415.27
+Batch B,Gordon Karpets,Pending,Full-time,Yodo,SEO,3 Lakh - 4 Lakh,98005.47
+Batch A,Alaster Jinda,Placed,Part-time,Blogpad,CopyWriting,5 Lakh - 6 Lakh,41782.04
+Batch A,Ange Ryding,Pending,Full-time,Linkbuzz,Marketing,NA,58833.05
+Batch B,Bunni Peltzer,Pending,Part-time,Topiczoom,Marketing,2 Lakh - 3 Lakh,47605
+Batch A,Magdaia Anslow,Placed,Full-time,Skidoo,Digital Marketing,NA,94457.75
+Batch B,Dniren Vibert,Pending,Full-time,Shuffledrive,SEO,NA,42047.83
+Batch B,Cam Klaffs,Placed,Full-time,Pixoboo,Marketing Automation,3 Lakh - 4 Lakh,57510.91
+Batch C,Allistir Chichgar,Placed,Full-time,Abatz,Brand Strategist,3 Lakh - 4 Lakh,44549.16
+Batch B,Pearline Naughton,Not Placed,Full-time,Topicblab,Brand Strategist,NA,71605.8
+Batch B,Emerson Rablen,Placed,Full-time,Meeveo,Brand Strategist,3 Lakh - 4 Lakh,50909.73
+Batch C,Kristen De Angelis,Not Placed,Part-time,Mynte,Digital Marketing,4 Lakh - 5 Lakh,51220.77
+Batch C,Mariele Kryzhov,Not Placed,Full-time,Yoveo,Digital Marketing,<1 Lakh,96498.41
+Batch C,Michaella Burle,Not Placed,Internship,Yotz,Marketing Automation,5 Lakh - 6 Lakh,33616.22
+Batch A,Chester Vine,Not Placed,Full-time,Quaxo,Marketing,3 Lakh - 4 Lakh,92468.36
+Batch C,Meredeth Dealtry,Pending,Internship,Thoughtmix,SEO,4 Lakh - 5 Lakh,76858.63
+Batch C,Jose Cranham,Not Placed,Full-time,Skipstorm,Digital Marketing,NA,64024.88
+Batch B,Janaya Antonijevic,Placed,Internship,Roombo,SEO,3 Lakh - 4 Lakh,37733.45
+Batch C,Terrell McComiskey,Not Placed,Full-time,Realbuzz,Email Marketing,2 Lakh - 3 Lakh,80914.68
+Batch A,Michaelina Meagher,Pending,Full-time,Aimbu,Email Marketing,NA,77305.91
+Batch A,Sauveur Meriott,Pending,Full-time,Tagcat,SEO,NA,95217.73
+Batch B,Cherri Brookshaw,Pending,Internship,Devpoint,Marketing,NA,48532.66
+Batch C,Melli Luggar,Placed,Internship,Gigaclub,Email Marketing,3 Lakh - 4 Lakh,75521.95
+Batch A,Claire Pillington,Pending,Full-time,Avamba,Marketing Automation,4 Lakh - 5 Lakh,40944.67
+Batch A,Lucy Casiroli,Not Placed,Internship,Quatz,Marketing Automation,4 Lakh - 5 Lakh,68323.05
+Batch B,Judon Spikins,Pending,Internship,Miboo,SEO,3 Lakh - 4 Lakh,96838.25
+Batch B,Tuck Bourbon,Not Placed,Full-time,Jazzy,Marketing,4 Lakh - 5 Lakh,45131.49
+Batch B,Selby Abbyss,Pending,Part-time,Quamba,Marketing Automation,5 Lakh - 6 Lakh,80827.33
+Batch A,Evan Biscomb,Pending,Full-time,Omba,CopyWriting,5 Lakh - 6 Lakh,34086.55
+Batch B,Emmaline Haeslier,Pending,Part-time,Riffpath,CopyWriting,3 Lakh - 4 Lakh,32961.26
+Batch C,Eachelle Jamme,Pending,Full-time,Tambee,Brand Strategist,NA,72623.32
+Batch A,Zachariah Castro,Placed,Internship,Topiczoom,Brand Strategist,NA,98860.39
+Batch C,Pascal Dorbon,Placed,Full-time,Jabbercube,Email Marketing,5 Lakh - 6 Lakh,55227.97
+Batch B,Whit McKenna,Not Placed,Full-time,Jayo,Email Marketing,3 Lakh - 4 Lakh,41600.81
+Batch A,Frederigo Tarburn,Pending,Full-time,Brainlounge,Marketing Automation,NA,58919.06
+Batch C,Jenifer Gumb,Not Placed,Part-time,Skiba,Digital Marketing,4 Lakh - 5 Lakh,42243.52
+Batch A,Joyann Legging,Pending,Part-time,Yacero,CopyWriting,2 Lakh - 3 Lakh,50011.03
+Batch B,Hubert Luddy,Pending,Full-time,Skilith,Brand Strategist,5 Lakh - 6 Lakh,45405.61
+Batch A,Stephanus Labrow,Placed,Full-time,Riffpath,CopyWriting,NA,93084.33
+Batch A,Phillis McAughtrie,Placed,Full-time,Snaptags,Brand Strategist,2 Lakh - 3 Lakh,70533.6
+Batch B,Keri Parnaby,Pending,Part-time,Yozio,CopyWriting,<1 Lakh,61087.47
+Batch A,Nance Whilder,Not Placed,Full-time,Yabox,Marketing Automation,5 Lakh - 6 Lakh,61105.81
+Batch C,Aluin Leonards,Pending,Full-time,Voolia,CopyWriting,4 Lakh - 5 Lakh,53256.38
+Batch B,Iorgos Arran,Not Placed,Part-time,Chatterbridge,SEO,<1 Lakh,45191.47
+Batch C,Didi Ritelli,Pending,Full-time,Zoombox,Marketing Automation,2 Lakh - 3 Lakh,89177.01
+Batch B,Doug Piken,Not Placed,Part-time,Quinu,Marketing,NA,37872.67
+Batch B,Sioux Atteridge,Pending,Full-time,Zoovu,Marketing Automation,2 Lakh - 3 Lakh,74684
+Batch A,Kennan Pimblotte,Not Placed,Full-time,Oyope,Digital Marketing,<1 Lakh,92108.79
+Batch B,Kyle Olivas,Not Placed,Part-time,Mycat,Marketing Automation,<1 Lakh,30187.66
+Batch B,Vernen Steventon,Placed,Full-time,Blogtags,Digital Marketing,5 Lakh - 6 Lakh,58417.41
+Batch C,Steffi Millyard,Not Placed,Full-time,Voonder,SEO,3 Lakh - 4 Lakh,95399.26
+Batch B,Guido Figge,Not Placed,Part-time,Skajo,Email Marketing,<1 Lakh,47659.6
+Batch C,Ardyth Shee,Pending,Part-time,Fliptune,Digital Marketing,2 Lakh - 3 Lakh,67992.43
+Batch B,Moises Rothera,Not Placed,Full-time,Devpoint,Brand Strategist,3 Lakh - 4 Lakh,54082.7
+Batch C,Joceline McCrory,Placed,Internship,Thoughtworks,Digital Marketing,NA,61918.02
+Batch C,Tyson Packman,Placed,Internship,Mycat,Email Marketing,<1 Lakh,42552.32
+Batch B,Bea Wulfinger,Pending,Full-time,Zava,Email Marketing,<1 Lakh,34532.65
+Batch B,Carolynn Ciotti,Pending,Part-time,Oba,Brand Strategist,4 Lakh - 5 Lakh,95501.55
+Batch C,Normie Joynes,Not Placed,Part-time,Youspan,Digital Marketing,3 Lakh - 4 Lakh,75406.34
+Batch C,Lynda Messenbird,Placed,Internship,Mymm,SEO,5 Lakh - 6 Lakh,48960.46
+Batch C,Olive Boase,Not Placed,Full-time,Wordtune,SEO,NA,67837.45
+Batch B,Matthias Whebell,Pending,Internship,Youbridge,Email Marketing,5 Lakh - 6 Lakh,97256.74
+Batch C,Willard Pendrid,Pending,Internship,Yotz,Digital Marketing,2 Lakh - 3 Lakh,40832.97
+Batch C,Bianca Radnage,Not Placed,Full-time,Quatz,Brand Strategist,2 Lakh - 3 Lakh,67198.5
+Batch B,Brian Brimacombe,Placed,Part-time,Demimbu,Marketing Automation,2 Lakh - 3 Lakh,55249.49
+Batch A,Kris Thame,Not Placed,Full-time,Kaymbo,SEO,2 Lakh - 3 Lakh,30061.95
+Batch B,Ralph Finlason,Pending,Internship,Quatz,Marketing,4 Lakh - 5 Lakh,86287.41
+Batch A,Katharina Hearne,Pending,Internship,Oyope,SEO,3 Lakh - 4 Lakh,61272.69
+Batch C,Joye Geeves,Placed,Part-time,Voomm,CopyWriting,3 Lakh - 4 Lakh,36208.34
+Batch B,Arne Earnshaw,Not Placed,Internship,Lazzy,CopyWriting,5 Lakh - 6 Lakh,33998.03
+Batch C,Chere Pendre,Placed,Full-time,Devbug,Marketing,4 Lakh - 5 Lakh,53865.53
+Batch A,Leena Saurat,Pending,Internship,Realcube,Brand Strategist,5 Lakh - 6 Lakh,86995.18
+Batch A,Lyda Plaskett,Placed,Full-time,Skinte,SEO,<1 Lakh,77528.04
+Batch A,Tiffie Benne,Pending,Part-time,Feedmix,Marketing,NA,57951.68
+Batch C,Brigid Petrosian,Pending,Part-time,Skipstorm,SEO,3 Lakh - 4 Lakh,59376.93
+Batch C,Roddie Jolin,Not Placed,Full-time,Skimia,Marketing,2 Lakh - 3 Lakh,64110.98
+Batch B,Odille Bresman,Pending,Internship,Lazzy,SEO,5 Lakh - 6 Lakh,74749.16
+Batch A,Britta Wiltshire,Not Placed,Part-time,Jamia,Marketing Automation,4 Lakh - 5 Lakh,67910.32
+Batch A,Claire Vasse,Placed,Internship,Oyoba,Brand Strategist,5 Lakh - 6 Lakh,48052.38
+Batch B,Lind McReedy,Placed,Part-time,Zoozzy,Marketing,2 Lakh - 3 Lakh,93651.18
+Batch C,Drucy Mayston,Pending,Full-time,Oyonder,CopyWriting,5 Lakh - 6 Lakh,37294.96
+Batch A,Humfrid Hartas,Placed,Part-time,Zoomlounge,CopyWriting,5 Lakh - 6 Lakh,91595.64
+Batch C,Gerri Tolfrey,Not Placed,Full-time,Thoughtworks,CopyWriting,NA,72350.62
+Batch B,Thorsten Starmont,Placed,Internship,Dabtype,SEO,<1 Lakh,47796.48
+Batch A,Chelsea Strevens,Not Placed,Internship,Brainlounge,Brand Strategist,4 Lakh - 5 Lakh,70471.98
+Batch A,Celie Collinwood,Not Placed,Part-time,Wikizz,Marketing,NA,66042.97
+Batch A,Thelma Courtes,Placed,Part-time,Skidoo,SEO,3 Lakh - 4 Lakh,86282.63
+Batch C,Worden MacAscaidh,Not Placed,Part-time,Skilith,Digital Marketing,5 Lakh - 6 Lakh,46379.46
+Batch B,Alonso Philpot,Placed,Full-time,Voomm,Marketing Automation,2 Lakh - 3 Lakh,67522.87
+Batch C,Flossie Trappe,Not Placed,Part-time,Devbug,SEO,NA,68730.22
+Batch A,Hewie Marwick,Placed,Full-time,Zoomcast,CopyWriting,4 Lakh - 5 Lakh,71191.36
+Batch B,Aline Strutt,Pending,Internship,Skibox,CopyWriting,2 Lakh - 3 Lakh,50313.73
+Batch A,Aigneis Peer,Not Placed,Internship,Voonyx,Marketing Automation,5 Lakh - 6 Lakh,54623.66
+Batch B,De Abbs,Placed,Full-time,Aibox,CopyWriting,<1 Lakh,44366.69
+Batch B,Arlin Cockram,Pending,Part-time,Katz,Marketing Automation,4 Lakh - 5 Lakh,53782.02
+Batch A,Findley O'Flynn,Placed,Part-time,Gabtype,SEO,5 Lakh - 6 Lakh,75901.47
+Batch A,Anton Bayly,Placed,Full-time,Centizu,CopyWriting,4 Lakh - 5 Lakh,71880.34
+Batch B,Carol-jean Beardsworth,Not Placed,Part-time,Jatri,Brand Strategist,<1 Lakh,61316.02
+Batch B,Wilhelmina Sinfield,Not Placed,Full-time,Jetpulse,Digital Marketing,NA,41079.69
+Batch A,Nick Lathwood,Pending,Internship,Fivebridge,Brand Strategist,4 Lakh - 5 Lakh,61457.76
+Batch B,Zorana Wallworth,Pending,Internship,Quinu,Email Marketing,NA,52522.14
+Batch C,Wilhelmina Ofen,Placed,Internship,Pixoboo,Digital Marketing,<1 Lakh,37836.16
+Batch B,Shanta Kid,Pending,Part-time,Feedbug,SEO,4 Lakh - 5 Lakh,34815.91
+Batch C,Flory Rucklidge,Pending,Part-time,Tanoodle,Marketing Automation,2 Lakh - 3 Lakh,55440
+Batch B,Celesta Wickham,Not Placed,Part-time,Flipstorm,SEO,4 Lakh - 5 Lakh,35465.34
+Batch A,Margeaux Thicking,Not Placed,Internship,Voolia,Email Marketing,5 Lakh - 6 Lakh,71670.91
+Batch A,George Berg,Pending,Part-time,Tagpad,Marketing Automation,NA,66545.35
+Batch B,Julia Boaler,Placed,Internship,Pixonyx,SEO,5 Lakh - 6 Lakh,66556.21
+Batch B,Herbie Josephs,Pending,Full-time,Abatz,Digital Marketing,5 Lakh - 6 Lakh,64500.61
+Batch B,Aurore Haggarth,Not Placed,Part-time,Jabbercube,Digital Marketing,3 Lakh - 4 Lakh,80652.86
+Batch B,Ludwig Ramsden,Pending,Internship,Eimbee,Brand Strategist,3 Lakh - 4 Lakh,75622.64
+Batch C,Caye Madgwich,Placed,Internship,Kanoodle,Digital Marketing,<1 Lakh,88028.01
+Batch B,Carlita Spinney,Pending,Internship,Twitterlist,Marketing,NA,62494.61
+Batch C,Marlee Gorgen,Pending,Full-time,Shufflester,CopyWriting,4 Lakh - 5 Lakh,58444.16
+Batch C,Gardner von Grollmann,Pending,Full-time,Viva,SEO,5 Lakh - 6 Lakh,54978.62
+Batch B,Marjy Stirtle,Placed,Internship,Centimia,Brand Strategist,<1 Lakh,87288.79
+Batch A,Brendis Parris,Not Placed,Part-time,Photobug,SEO,4 Lakh - 5 Lakh,85730.08
+Batch A,Calli Schellig,Placed,Internship,Zoombox,CopyWriting,5 Lakh - 6 Lakh,79160.63
+Batch B,Ortensia Abbott,Placed,Internship,Jabberstorm,SEO,NA,33818.19
+Batch A,Arther Simonds,Not Placed,Full-time,Meetz,Email Marketing,4 Lakh - 5 Lakh,90305.18
+Batch A,Darell Surmeyers,Not Placed,Internship,Wikibox,Digital Marketing,NA,30788.74
+Batch B,Tamara Stanley,Not Placed,Part-time,DabZ,Digital Marketing,5 Lakh - 6 Lakh,49853.62
+Batch A,Averell Duester,Not Placed,Internship,Avavee,SEO,4 Lakh - 5 Lakh,32726.98
+Batch B,Bertrando Barnes,Pending,Part-time,Muxo,CopyWriting,3 Lakh - 4 Lakh,73634.53
+Batch B,Hewe Armfirld,Pending,Internship,Brainlounge,Marketing,4 Lakh - 5 Lakh,87047.49
+Batch B,Clevey Dibson,Pending,Internship,Yata,Marketing Automation,3 Lakh - 4 Lakh,70243.03
+Batch B,Sol Baxstar,Not Placed,Internship,Meetz,Marketing,2 Lakh - 3 Lakh,38714.67
+Batch B,Gwenny Laurenty,Pending,Internship,Photobug,CopyWriting,4 Lakh - 5 Lakh,50258.51
+Batch C,Sissy Hallsworth,Pending,Internship,Thoughtstorm,Brand Strategist,4 Lakh - 5 Lakh,30622.76
+Batch A,Kermit Aksell,Not Placed,Full-time,Avaveo,Digital Marketing,3 Lakh - 4 Lakh,84330.61
+Batch B,Virgil Skeath,Not Placed,Full-time,Brightbean,Brand Strategist,4 Lakh - 5 Lakh,68915.18
+Batch A,Salim Tabb,Pending,Part-time,Tazz,Marketing Automation,2 Lakh - 3 Lakh,56418.37
+Batch A,Ailyn Dunkinson,Pending,Internship,Photospace,Marketing Automation,5 Lakh - 6 Lakh,93179.09
+Batch A,Nicolai Pinchin,Placed,Internship,Voomm,Marketing,3 Lakh - 4 Lakh,45863.65
+Batch B,Muhammad Rivalland,Placed,Internship,Dazzlesphere,Email Marketing,<1 Lakh,57986.68
+Batch A,Dreddy Abotson,Pending,Internship,Oyope,Email Marketing,NA,59689.81
+Batch A,Vanya Duesbury,Placed,Full-time,Photofeed,Email Marketing,<1 Lakh,42473.9
+Batch B,Gardener Ivanikhin,Placed,Part-time,Zazio,Marketing,2 Lakh - 3 Lakh,70341.93
+Batch A,Darda Seago,Pending,Part-time,Feednation,Brand Strategist,3 Lakh - 4 Lakh,76167.21
+Batch A,Timmie Tills,Pending,Part-time,Mydo,SEO,5 Lakh - 6 Lakh,51758.58
+Batch A,Inglebert Blaiklock,Pending,Part-time,Mydo,CopyWriting,4 Lakh - 5 Lakh,30515.6
+Batch C,Christie Clubley,Placed,Part-time,Bluejam,Digital Marketing,4 Lakh - 5 Lakh,87682.84
+Batch C,Lucita Brute,Placed,Internship,JumpXS,Brand Strategist,3 Lakh - 4 Lakh,96329.32
+Batch A,Conchita Schorah,Pending,Part-time,Gabtype,Digital Marketing,4 Lakh - 5 Lakh,56139.73
+Batch C,Wilt Chinn,Not Placed,Internship,Shufflebeat,Email Marketing,<1 Lakh,39330.03
+Batch A,Yance Piaggia,Not Placed,Part-time,Shuffledrive,Digital Marketing,4 Lakh - 5 Lakh,73456
+Batch B,Lou Bispo,Placed,Internship,Avavee,SEO,<1 Lakh,93655.92
+Batch B,Bili Churchouse,Pending,Internship,Fliptune,SEO,5 Lakh - 6 Lakh,46534.19
+Batch B,Alica Salvidge,Placed,Full-time,Browsetype,Marketing,5 Lakh - 6 Lakh,43272.33
+Batch A,Frederich McCurry,Pending,Part-time,Janyx,SEO,<1 Lakh,62774.06
+Batch B,Carey Mallaby,Placed,Internship,Dabtype,SEO,<1 Lakh,92711.24
+Batch C,Marcel Dives,Pending,Part-time,Bubblebox,Marketing,<1 Lakh,62352.67
+Batch A,Antonie Cabrales,Placed,Part-time,Meetz,Email Marketing,3 Lakh - 4 Lakh,94497.76
+Batch C,Martelle Golthorpp,Not Placed,Internship,Thoughtmix,Marketing Automation,3 Lakh - 4 Lakh,52197.6
+Batch A,Perren Bruhn,Pending,Part-time,Babblestorm,Digital Marketing,2 Lakh - 3 Lakh,56489.12
+Batch A,Virgil Brack,Pending,Full-time,Vidoo,CopyWriting,4 Lakh - 5 Lakh,91558.81
+Batch A,Desmund Baddiley,Not Placed,Full-time,Eayo,Brand Strategist,2 Lakh - 3 Lakh,83782.23
+Batch A,Craggie Hazlehurst,Placed,Full-time,BlogXS,SEO,2 Lakh - 3 Lakh,47132.49
+Batch B,Wat Kuna,Pending,Part-time,Eabox,SEO,<1 Lakh,57773.16
+Batch A,Morten Sponer,Pending,Full-time,Brainbox,CopyWriting,3 Lakh - 4 Lakh,91950.54
+Batch A,Roxi Scone,Not Placed,Part-time,Aivee,Marketing,2 Lakh - 3 Lakh,75115.4
+Batch A,Shelden Esel,Pending,Internship,Twimm,Digital Marketing,<1 Lakh,58580.52
+Batch A,Merrielle Ollier,Placed,Part-time,Realmix,CopyWriting,<1 Lakh,89480.54
+Batch C,Arlin Knutton,Placed,Part-time,Eare,Brand Strategist,4 Lakh - 5 Lakh,79814.88
+Batch B,Carry Cosens,Placed,Part-time,Mita,Marketing Automation,5 Lakh - 6 Lakh,31557.65
+Batch B,Sunshine Curness,Placed,Part-time,Quire,CopyWriting,2 Lakh - 3 Lakh,39398.27
+Batch C,Patricia Beels,Not Placed,Full-time,Kaymbo,Email Marketing,NA,91763
+Batch B,Kristal Bacup,Pending,Full-time,Quinu,Marketing,<1 Lakh,97311.17
+Batch A,Pet Jzhakov,Pending,Part-time,Kimia,Email Marketing,3 Lakh - 4 Lakh,45111.59
+Batch A,Livia Silverton,Not Placed,Full-time,Zoozzy,Marketing Automation,2 Lakh - 3 Lakh,66797.54
+Batch C,Onfroi Oag,Placed,Internship,Jaxnation,SEO,NA,48083.52
+Batch B,Judi Million,Pending,Part-time,Meejo,Digital Marketing,3 Lakh - 4 Lakh,43389.76
+Batch B,Alistair Rimell,Not Placed,Internship,Rhyzio,Marketing Automation,4 Lakh - 5 Lakh,96197.06
+Batch C,Ardelis Cranstone,Pending,Internship,Jabberstorm,Brand Strategist,2 Lakh - 3 Lakh,32259.14
+Batch A,Thalia Whyley,Not Placed,Internship,Eadel,SEO,4 Lakh - 5 Lakh,42733.77
+Batch A,Kaiser De La Hay,Pending,Full-time,Eidel,CopyWriting,4 Lakh - 5 Lakh,80828.75
+Batch A,Nahum Zealy,Not Placed,Part-time,Dabfeed,Marketing Automation,3 Lakh - 4 Lakh,95901.46
+Batch B,Vite Henzley,Pending,Part-time,Babbleopia,Marketing Automation,5 Lakh - 6 Lakh,43544.44
+Batch C,Karlie Plank,Placed,Internship,Bubblemix,Email Marketing,<1 Lakh,51545.07
+Batch B,Jacqui Sugden,Not Placed,Part-time,Gigazoom,CopyWriting,2 Lakh - 3 Lakh,95459.63
+Batch A,Mano Tydd,Placed,Full-time,Topiclounge,Email Marketing,5 Lakh - 6 Lakh,40528.08
+Batch C,Peggy Braganca,Not Placed,Part-time,Trudoo,Email Marketing,2 Lakh - 3 Lakh,60488.21
+Batch B,Waite Lorenzo,Pending,Full-time,Tagpad,Marketing Automation,4 Lakh - 5 Lakh,63562.99
+Batch C,Iggy Werlock,Placed,Internship,Dynazzy,Email Marketing,5 Lakh - 6 Lakh,58381.72
+Batch B,Gifford Kohter,Pending,Internship,Livefish,Email Marketing,2 Lakh - 3 Lakh,34994.28
+Batch A,Leo Rollings,Placed,Internship,Babblestorm,Digital Marketing,2 Lakh - 3 Lakh,53982.54
+Batch C,Karil Getley,Not Placed,Full-time,Kwinu,Digital Marketing,3 Lakh - 4 Lakh,58369.88
+Batch B,North Hudspith,Pending,Internship,Youbridge,Email Marketing,2 Lakh - 3 Lakh,67775.13
+Batch C,Lina Christoffels,Not Placed,Full-time,Livepath,Brand Strategist,3 Lakh - 4 Lakh,96131.28
+Batch C,Myrtia McCathay,Pending,Part-time,Skyndu,SEO,5 Lakh - 6 Lakh,66848.26
+Batch C,Rachael Pozer,Placed,Full-time,Mita,Brand Strategist,NA,41262.2
+Batch B,Austin Gergolet,Pending,Internship,Twitternation,CopyWriting,<1 Lakh,49357.65
+Batch B,Karney Filipychev,Pending,Part-time,Centimia,Email Marketing,2 Lakh - 3 Lakh,83142.38
+Batch B,Rodie Wreakes,Pending,Internship,Oyoloo,Email Marketing,4 Lakh - 5 Lakh,42740.93
+Batch C,Walton Skrzynski,Not Placed,Internship,Dynazzy,Email Marketing,3 Lakh - 4 Lakh,99969.28
+Batch B,Dita Dodd,Not Placed,Internship,Nlounge,Digital Marketing,3 Lakh - 4 Lakh,51669.88
+Batch C,Siusan Drysdall,Pending,Full-time,Twimbo,Digital Marketing,3 Lakh - 4 Lakh,41233.77
+Batch C,Marlowe Morison,Placed,Internship,Edgeclub,CopyWriting,4 Lakh - 5 Lakh,54384.8
+Batch A,Karlis Chesters,Pending,Internship,Yakijo,Marketing Automation,3 Lakh - 4 Lakh,44503.22
+Batch A,Ettore Kerin,Placed,Full-time,Meezzy,Marketing,5 Lakh - 6 Lakh,45424.41
+Batch C,Shena Sille,Placed,Internship,Quire,Marketing Automation,<1 Lakh,92613.53
+Batch A,Gretchen Schubuser,Not Placed,Part-time,Babbleblab,Email Marketing,<1 Lakh,67839.76
+Batch B,Jacqueline Royste,Placed,Part-time,Flipopia,Marketing,3 Lakh - 4 Lakh,87243.47
+Batch C,Joscelin Gridley,Pending,Part-time,Browsetype,Brand Strategist,4 Lakh - 5 Lakh,65435.64
+Batch C,Quinn Livingstone,Placed,Part-time,Innojam,Email Marketing,2 Lakh - 3 Lakh,59159.44
+Batch A,Franz Gisbourn,Not Placed,Full-time,Quaxo,Digital Marketing,3 Lakh - 4 Lakh,33582.41
+Batch C,Harmonia Vaudre,Not Placed,Internship,Tekfly,SEO,5 Lakh - 6 Lakh,68825.47
+Batch C,Mair McRill,Placed,Part-time,Meetz,Digital Marketing,2 Lakh - 3 Lakh,65970.92
+Batch B,Lindy Brake,Not Placed,Internship,Livetube,Marketing,NA,97849.89
+Batch A,Prisca Chotty,Pending,Internship,Devcast,Digital Marketing,<1 Lakh,57218.41
+Batch C,Chrystel Mc Caughen,Not Placed,Internship,Blogtag,Brand Strategist,NA,42934.69
+Batch B,Deeyn Burnyeat,Pending,Full-time,Blogspan,Email Marketing,3 Lakh - 4 Lakh,97277.78
+Batch C,Vladamir Huffey,Not Placed,Full-time,Avavee,Email Marketing,3 Lakh - 4 Lakh,41786.73
+Batch C,Gearalt Phizackarley,Not Placed,Internship,Lazz,Brand Strategist,5 Lakh - 6 Lakh,47206.24
+Batch A,Chucho Castletine,Placed,Internship,Jabbersphere,CopyWriting,4 Lakh - 5 Lakh,37850.87
+Batch A,Cleveland Clavey,Placed,Part-time,Topicware,Email Marketing,5 Lakh - 6 Lakh,40594.58
+Batch B,Torry Antonomolii,Pending,Internship,Lazz,Brand Strategist,5 Lakh - 6 Lakh,54550.84
+Batch C,Charissa Extence,Placed,Internship,Realmix,SEO,NA,58934.49
+Batch C,Bar Harbin,Placed,Internship,Gevee,Marketing,NA,30876.8
+Batch C,Lulita Coughlan,Not Placed,Part-time,Kimia,Digital Marketing,<1 Lakh,86433.67
+Batch B,Burke Dawe,Not Placed,Full-time,Katz,Marketing,2 Lakh - 3 Lakh,63719.92
+Batch C,Monique Halpeine,Placed,Part-time,Topiclounge,Email Marketing,NA,32924.35
+Batch B,Diego Doelle,Pending,Internship,Zoombox,Marketing Automation,<1 Lakh,88109.38
+Batch B,Normy Brimmacombe,Placed,Full-time,Oyoba,Brand Strategist,4 Lakh - 5 Lakh,68158.63
+Batch A,Garfield Basili,Pending,Part-time,Jatri,SEO,<1 Lakh,81469.81
+Batch A,Penrod Abby,Placed,Internship,Realbridge,Digital Marketing,5 Lakh - 6 Lakh,71582.39
+Batch B,Halette Rebillard,Pending,Full-time,Divavu,SEO,NA,72318.9
+Batch C,Murial Baert,Placed,Full-time,Eadel,Marketing Automation,<1 Lakh,38556.96
+Batch A,Essa Catherall,Placed,Part-time,Riffwire,CopyWriting,NA,37925.63
+Batch B,Meredithe Andrini,Not Placed,Full-time,Agivu,SEO,NA,79218.94
+Batch C,Vance Mustchin,Not Placed,Part-time,Pixope,Email Marketing,3 Lakh - 4 Lakh,33748
+Batch A,Horatius Latimer,Pending,Part-time,Skinix,CopyWriting,4 Lakh - 5 Lakh,77027.12
+Batch B,Buckie Laddle,Placed,Part-time,Camimbo,Brand Strategist,4 Lakh - 5 Lakh,51264.23
+Batch B,Bel McCritchie,Not Placed,Full-time,Photofeed,CopyWriting,5 Lakh - 6 Lakh,41289.71
+Batch B,Katee Manwaring,Not Placed,Internship,Blogtag,CopyWriting,2 Lakh - 3 Lakh,94096.73
+Batch B,Monty Molesworth,Pending,Full-time,Meevee,CopyWriting,<1 Lakh,93684.87
+Batch A,Antin Bussell,Pending,Part-time,Zoombox,Marketing,5 Lakh - 6 Lakh,52286.21
+Batch A,Renault Cowherd,Placed,Internship,Fiveclub,Marketing,4 Lakh - 5 Lakh,69779.67
+Batch B,Silvia Bonass,Not Placed,Part-time,Oyoyo,Marketing Automation,2 Lakh - 3 Lakh,68138.24
+Batch C,Even Houltham,Not Placed,Part-time,Dynazzy,CopyWriting,5 Lakh - 6 Lakh,88924.96
+Batch A,Nancee Phillpotts,Placed,Part-time,Vinte,Email Marketing,5 Lakh - 6 Lakh,41265.53
+Batch A,Nahum McKibbin,Not Placed,Part-time,Dabvine,Marketing Automation,<1 Lakh,88592.77
+Batch B,Marjory Dalgleish,Not Placed,Internship,Eimbee,CopyWriting,3 Lakh - 4 Lakh,88131.15
+Batch B,Boone Mulford,Pending,Internship,Izio,Marketing Automation,NA,72883.54
+Batch A,Franchot Reinbech,Pending,Internship,Skynoodle,CopyWriting,3 Lakh - 4 Lakh,84779.33
+Batch C,Pembroke Bacchus,Pending,Internship,Wordware,Marketing,4 Lakh - 5 Lakh,86384.38
+Batch B,Sissy Massie,Placed,Part-time,Rhynyx,Digital Marketing,NA,90036.05
+Batch C,Niven Jeffry,Not Placed,Part-time,Dynazzy,SEO,5 Lakh - 6 Lakh,83352.68
+Batch C,Marcie Larret,Not Placed,Full-time,Eimbee,Digital Marketing,2 Lakh - 3 Lakh,79732.13
+Batch B,Robin Sidnall,Not Placed,Full-time,Jaxspan,SEO,5 Lakh - 6 Lakh,69142.16
+Batch A,Elissa Pears,Pending,Full-time,Avavee,Brand Strategist,<1 Lakh,63132.52
+Batch B,Justinn Fishleigh,Pending,Internship,Yadel,Marketing Automation,<1 Lakh,74841.17
+Batch A,Judon Banbrick,Placed,Part-time,Lazz,Marketing,NA,99372.24
+Batch A,Britta Nials,Pending,Internship,Lazz,SEO,NA,99454.86
+Batch A,Isaak Hawton,Not Placed,Part-time,Brainbox,Marketing,3 Lakh - 4 Lakh,68423.24
+Batch C,Shanda Girkins,Pending,Internship,Yakitri,Marketing,<1 Lakh,77061.44
+Batch B,Franklyn Staddart,Pending,Internship,Skalith,Marketing,3 Lakh - 4 Lakh,44645.57
+Batch C,Matilda Virgin,Not Placed,Full-time,Chatterpoint,CopyWriting,2 Lakh - 3 Lakh,31147.39
+Batch C,Dion Hillaby,Placed,Part-time,Agimba,Email Marketing,NA,49458.44
+Batch A,Brynn Sugden,Pending,Part-time,Ainyx,Brand Strategist,5 Lakh - 6 Lakh,56266.41
+Batch B,Johann Maymond,Placed,Part-time,Quatz,Email Marketing,4 Lakh - 5 Lakh,97524.17
+Batch C,Carolyn Bamlet,Pending,Full-time,Ozu,SEO,3 Lakh - 4 Lakh,31444.42
+Batch C,Rufus Beckley,Placed,Part-time,Gigazoom,Digital Marketing,5 Lakh - 6 Lakh,47966.88
+Batch A,Helena Saiens,Pending,Internship,Youbridge,CopyWriting,<1 Lakh,56631.78
+Batch B,Vladamir Bletso,Not Placed,Internship,Cogidoo,Digital Marketing,NA,59648.56
+Batch B,Jammie Burnard,Pending,Full-time,Lajo,Digital Marketing,NA,77516.16
+Batch B,Jacquelyn Skirving,Pending,Part-time,Nlounge,Email Marketing,4 Lakh - 5 Lakh,60229.38
+Batch C,Whitman Perkins,Not Placed,Part-time,Zava,Digital Marketing,<1 Lakh,70288.63
+Batch B,Izzy Roggeman,Placed,Part-time,Topiczoom,Marketing,NA,63013.81
+Batch C,Ford Fortnum,Placed,Part-time,Einti,Marketing,5 Lakh - 6 Lakh,83015.76
+Batch C,Sandro Crinkley,Placed,Part-time,Zooxo,Email Marketing,4 Lakh - 5 Lakh,47735.31
+Batch C,Rudiger Bercevelo,Not Placed,Part-time,Eare,Digital Marketing,4 Lakh - 5 Lakh,88260.16
+Batch C,Katharine Dearnaly,Not Placed,Full-time,Camimbo,Marketing,<1 Lakh,38839.04
+Batch B,Sal Pettifor,Not Placed,Internship,Gevee,Brand Strategist,2 Lakh - 3 Lakh,46442.48
+Batch A,Michail Critchard,Not Placed,Internship,Flashset,Marketing,3 Lakh - 4 Lakh,99798.12
+Batch B,Keith Toffel,Placed,Full-time,Babbleblab,CopyWriting,3 Lakh - 4 Lakh,58097.02
+Batch A,Jennica Frayne,Placed,Internship,Tazzy,Email Marketing,2 Lakh - 3 Lakh,45098
+Batch C,Brigit Lindeberg,Pending,Internship,Linkbridge,Marketing Automation,4 Lakh - 5 Lakh,68277.75
+Batch B,Bess Heningam,Pending,Internship,Quaxo,Brand Strategist,<1 Lakh,49290
+Batch B,Free Beagrie,Not Placed,Internship,Agivu,CopyWriting,5 Lakh - 6 Lakh,62273.51
+Batch A,Trixi Daudray,Not Placed,Full-time,Babbleblab,Brand Strategist,NA,78957.41
+Batch C,Clarance Coffee,Not Placed,Full-time,Vidoo,Email Marketing,5 Lakh - 6 Lakh,73866.69
+Batch C,Bartholomew Gourdon,Not Placed,Part-time,Zooveo,Digital Marketing,5 Lakh - 6 Lakh,50378.83
+Batch A,Conrado Corbould,Pending,Full-time,Yacero,Marketing,2 Lakh - 3 Lakh,32109.34
+Batch C,Lolita Barnewall,Pending,Full-time,Linklinks,SEO,2 Lakh - 3 Lakh,75692.07
+Batch B,Matthaeus Towne,Pending,Internship,Dynabox,Email Marketing,2 Lakh - 3 Lakh,62258.07
+Batch B,Arline Glayzer,Not Placed,Internship,Minyx,Marketing Automation,NA,75406.69
+Batch C,Ezekiel Jose,Not Placed,Part-time,Skalith,Email Marketing,NA,97857.98
+Batch B,Sandi Syncke,Placed,Part-time,Midel,Email Marketing,2 Lakh - 3 Lakh,57812.01
+Batch B,Harv Anthon,Placed,Full-time,Aimbu,Email Marketing,3 Lakh - 4 Lakh,98124.33
+Batch C,Britt Greatrex,Not Placed,Part-time,Voolia,Brand Strategist,5 Lakh - 6 Lakh,79298.06
+Batch C,Eleonora Newhouse,Pending,Full-time,Skivee,Marketing Automation,5 Lakh - 6 Lakh,46764.45
+Batch B,Hanna Peckham,Placed,Internship,Zava,Email Marketing,2 Lakh - 3 Lakh,45908.9
+Batch C,Erminie Plumbridge,Not Placed,Full-time,Kanoodle,Email Marketing,5 Lakh - 6 Lakh,52192.42
+Batch A,Laverne Grahamslaw,Pending,Internship,Thoughtbridge,Brand Strategist,<1 Lakh,43147.71
+Batch C,Jordain McQuaide,Not Placed,Full-time,Zooxo,Marketing,4 Lakh - 5 Lakh,64199.92
+Batch B,Chase Baldcock,Pending,Full-time,Divanoodle,SEO,3 Lakh - 4 Lakh,41759.83
+Batch A,Paddie Kyndred,Placed,Part-time,Gevee,Marketing Automation,4 Lakh - 5 Lakh,87563.82
+Batch B,Darn Edy,Not Placed,Full-time,Feedbug,CopyWriting,3 Lakh - 4 Lakh,98971.97
+Batch C,Dedie Britten,Pending,Full-time,Yambee,Marketing,3 Lakh - 4 Lakh,44827.77
+Batch B,Teddie Aldwich,Placed,Full-time,Edgeclub,Marketing,4 Lakh - 5 Lakh,71175.25
+Batch A,Melesa Cornforth,Placed,Full-time,Devbug,Digital Marketing,<1 Lakh,48832.84
+Batch A,Vivien Vinnicombe,Pending,Part-time,Wikibox,Digital Marketing,5 Lakh - 6 Lakh,55267.65
+Batch B,Marja Melato,Placed,Internship,Yacero,Marketing Automation,<1 Lakh,76541.75
+Batch B,Cecily Dimbylow,Placed,Part-time,Trudoo,Marketing,4 Lakh - 5 Lakh,81425.77
+Batch A,Osbourn Calderwood,Pending,Part-time,Meejo,Marketing Automation,3 Lakh - 4 Lakh,86926.17
+Batch C,Dominique Ducarel,Placed,Full-time,Wikibox,CopyWriting,3 Lakh - 4 Lakh,65496.11
+Batch A,Pattie Greenough,Not Placed,Full-time,Divavu,Digital Marketing,<1 Lakh,55878.39
+Batch B,Alison Thomlinson,Pending,Part-time,Kare,Marketing Automation,NA,80137.04
+Batch B,Mariele Franchioni,Placed,Part-time,Devshare,CopyWriting,NA,60811.39
+Batch A,Gregorio Bentson,Placed,Full-time,Dabtype,Marketing Automation,<1 Lakh,60324
+Batch A,Reuven Smallridge,Pending,Part-time,Jayo,Email Marketing,<1 Lakh,31607.69
+Batch B,Tadd Brigstock,Pending,Full-time,Browsetype,Email Marketing,4 Lakh - 5 Lakh,68592.3
+Batch A,Trisha Peskett,Pending,Full-time,Zooveo,Email Marketing,2 Lakh - 3 Lakh,50450.09
+Batch A,Wendeline Robertson,Pending,Full-time,Eamia,Marketing,<1 Lakh,71128.34
+Batch C,Carlyle Whooley,Not Placed,Internship,Zoombeat,SEO,2 Lakh - 3 Lakh,44141.85
+Batch B,Garreth Escolme,Pending,Internship,Leexo,Marketing Automation,2 Lakh - 3 Lakh,80289.65
+Batch C,Caroljean Muzzullo,Placed,Part-time,Voonyx,Brand Strategist,<1 Lakh,69718.27
+Batch C,Michaeline Eaken,Pending,Full-time,Twimm,Marketing,5 Lakh - 6 Lakh,93465.67
+Batch C,Vanessa Duckitt,Pending,Part-time,Oyoba,Marketing,NA,66047.04
+Batch B,Gayelord Hatliffe,Pending,Internship,Dabjam,Email Marketing,5 Lakh - 6 Lakh,30584.53
+Batch C,Selina Hardisty,Placed,Part-time,Linktype,Email Marketing,<1 Lakh,38518.97
+Batch B,Obed McShee,Placed,Full-time,Cogilith,Digital Marketing,3 Lakh - 4 Lakh,54347.96
+Batch B,Cyndy Rocks,Not Placed,Part-time,Skiptube,Digital Marketing,5 Lakh - 6 Lakh,61442.68
+Batch C,Melesa Nan Carrow,Placed,Full-time,Chatterbridge,Marketing Automation,4 Lakh - 5 Lakh,33040.3
+Batch C,Marci Greatorex,Pending,Internship,Yakijo,SEO,5 Lakh - 6 Lakh,73222.26
+Batch B,Izabel Milligan,Pending,Part-time,Kayveo,Marketing Automation,2 Lakh - 3 Lakh,61720.13
+Batch A,Lorrie Egell,Pending,Full-time,Shuffledrive,Email Marketing,3 Lakh - 4 Lakh,94849.66
+Batch B,Raquela Rustadge,Placed,Full-time,Riffwire,CopyWriting,5 Lakh - 6 Lakh,85263.55
+Batch B,Byrle Ricciardelli,Pending,Internship,Rhynoodle,Digital Marketing,<1 Lakh,76364.99
+Batch B,Gaspard Mithun,Not Placed,Internship,Voomm,CopyWriting,5 Lakh - 6 Lakh,94800.99
+Batch C,Raynard Greber,Pending,Part-time,Blogtags,Marketing,<1 Lakh,88808.57
+Batch B,Candace McCay,Not Placed,Internship,Plambee,Marketing Automation,<1 Lakh,74414.05
+Batch B,Melisse Blumer,Not Placed,Internship,Katz,Marketing Automation,3 Lakh - 4 Lakh,45032.1
+Batch B,Paolina Feak,Placed,Internship,Linklinks,CopyWriting,2 Lakh - 3 Lakh,57326.25
+Batch A,Karmen Waplington,Not Placed,Internship,Realmix,Marketing,<1 Lakh,73252.42
+Batch B,Mag Graser,Placed,Internship,Skiba,Marketing,<1 Lakh,61943.26
+Batch B,Barret Imloch,Not Placed,Part-time,Talane,Marketing Automation,2 Lakh - 3 Lakh,90797.26
+Batch B,Danie Jammet,Not Placed,Internship,Riffwire,Digital Marketing,3 Lakh - 4 Lakh,47244.92
+Batch B,Fabien Graffin,Placed,Full-time,Jaxspan,Marketing,2 Lakh - 3 Lakh,44809.51
+Batch B,Alvy Carmen,Pending,Part-time,Yabox,Digital Marketing,3 Lakh - 4 Lakh,64110.84
+Batch B,Tristam Stearnes,Placed,Full-time,Photojam,Digital Marketing,3 Lakh - 4 Lakh,51686.1
+Batch B,Tiffy Brecknock,Not Placed,Internship,Chatterpoint,Marketing,5 Lakh - 6 Lakh,50285.88
+Batch B,Jamal Slimm,Placed,Part-time,Cogilith,Marketing,4 Lakh - 5 Lakh,59333.98
+Batch C,Cathee Cowap,Not Placed,Internship,Wikizz,CopyWriting,5 Lakh - 6 Lakh,52260.29
+Batch C,Lulita Kitteringham,Pending,Full-time,Centizu,SEO,4 Lakh - 5 Lakh,80470.75
+Batch A,Xylina Jolland,Not Placed,Full-time,Layo,CopyWriting,NA,60398.73
+Batch A,Heda Tomsa,Not Placed,Part-time,Fivebridge,Digital Marketing,2 Lakh - 3 Lakh,88004.08
+Batch C,Templeton Medd,Placed,Part-time,JumpXS,Marketing Automation,3 Lakh - 4 Lakh,78486.13
+Batch B,Hube Carty,Not Placed,Full-time,Twitterwire,Email Marketing,NA,36901.43
+Batch B,Lenette Pedden,Pending,Part-time,Jayo,Brand Strategist,5 Lakh - 6 Lakh,56439.83
+Batch C,Hedy Saggs,Not Placed,Part-time,Wikido,Marketing,2 Lakh - 3 Lakh,99918.29
+Batch A,Ches Goddert.sf,Pending,Part-time,Zazio,SEO,5 Lakh - 6 Lakh,82306.69
+Batch B,Selinda Loncaster,Placed,Full-time,Bubblebox,CopyWriting,4 Lakh - 5 Lakh,86458.62
+Batch A,Marijo Niesing,Not Placed,Part-time,Photospace,Marketing,5 Lakh - 6 Lakh,77271
+Batch C,Carley Sinney,Pending,Internship,Oozz,Marketing,5 Lakh - 6 Lakh,95435.1
+Batch C,Breena Reinert,Not Placed,Full-time,Myworks,CopyWriting,2 Lakh - 3 Lakh,82953.18
+Batch B,Rica Keems,Placed,Full-time,Gabcube,Brand Strategist,4 Lakh - 5 Lakh,83046.84
+Batch B,Spencer Chasmar,Placed,Internship,Skiptube,CopyWriting,<1 Lakh,55912.41
+Batch C,Clo Kinavan,Placed,Part-time,Feedfire,Brand Strategist,5 Lakh - 6 Lakh,87361.53
+Batch A,Dara Vasilic,Placed,Part-time,Kwilith,SEO,<1 Lakh,70290.6
+Batch B,Sherrie Dron,Placed,Part-time,Shuffledrive,Digital Marketing,2 Lakh - 3 Lakh,91088.3
+Batch A,Arny Yvon,Not Placed,Internship,Twitterwire,CopyWriting,4 Lakh - 5 Lakh,62605.58
+Batch C,Dionne Rutherfoord,Placed,Part-time,Quatz,Brand Strategist,<1 Lakh,35490.27
+Batch B,Lou Gherardelli,Not Placed,Full-time,Jetpulse,Email Marketing,4 Lakh - 5 Lakh,80874.84
+Batch A,Edithe Christoffersen,Not Placed,Internship,Podcat,CopyWriting,<1 Lakh,87521.42
+Batch B,Carrol Scrancher,Not Placed,Internship,Tagopia,Brand Strategist,2 Lakh - 3 Lakh,85527.05
+Batch A,Bing Munroe,Pending,Full-time,Kayveo,Marketing Automation,NA,38100.97
+Batch C,Faith Doubrava,Not Placed,Part-time,Voomm,Email Marketing,<1 Lakh,92969.01
+Batch A,Welch Conwell,Placed,Full-time,Chatterpoint,Digital Marketing,3 Lakh - 4 Lakh,48744.33
+Batch B,Jeanette Flockhart,Placed,Part-time,Thoughtbridge,Digital Marketing,4 Lakh - 5 Lakh,60617.77
+Batch C,Halli Farens,Not Placed,Full-time,Kanoodle,CopyWriting,5 Lakh - 6 Lakh,71798.03
+Batch B,Ally Mungane,Not Placed,Full-time,Gigabox,Email Marketing,4 Lakh - 5 Lakh,56455.51
+Batch B,Lori Manwaring,Placed,Full-time,Flashpoint,Marketing Automation,NA,69950.78
+Batch B,Perri Tafani,Pending,Part-time,Brainbox,Marketing,NA,31505.97
+Batch C,Mureil Tadman,Pending,Full-time,Blogpad,Marketing Automation,5 Lakh - 6 Lakh,38742.93
+Batch C,Terence Peet,Not Placed,Internship,Tekfly,Digital Marketing,2 Lakh - 3 Lakh,44927.68
+Batch A,Prissie Ousley,Not Placed,Part-time,Flipbug,SEO,4 Lakh - 5 Lakh,77263.53
+Batch C,Ingram Caselli,Not Placed,Full-time,Mybuzz,Brand Strategist,3 Lakh - 4 Lakh,74632.12
+Batch B,Balduin Dearness,Placed,Part-time,DabZ,Brand Strategist,5 Lakh - 6 Lakh,58279.49
+Batch C,Mahala Philippard,Pending,Internship,Mynte,Marketing Automation,NA,42067.1
+Batch C,Jeremie Ditt,Not Placed,Full-time,Eire,Brand Strategist,3 Lakh - 4 Lakh,52403.9
+Batch B,Ester Hurll,Placed,Full-time,Thoughtstorm,Digital Marketing,5 Lakh - 6 Lakh,80020.35
+Batch C,Kenny Telezhkin,Pending,Part-time,Eare,CopyWriting,NA,43240.1
+Batch C,Fidel McKeveney,Placed,Part-time,Livepath,Email Marketing,NA,33466.65
+Batch C,Tildy Costard,Not Placed,Part-time,Voonder,Brand Strategist,<1 Lakh,34009.59
+Batch C,Imogene Loton,Not Placed,Full-time,Meembee,Marketing,NA,89120.73
+Batch C,Madalena Zanetto,Pending,Part-time,Yata,CopyWriting,<1 Lakh,71715.08
+Batch C,Hildagard Meechan,Not Placed,Internship,Wikizz,CopyWriting,2 Lakh - 3 Lakh,48621.43
+Batch C,Teodoor Valeri,Pending,Internship,Feedfire,SEO,2 Lakh - 3 Lakh,74272.47
+Batch C,Bab Dine-Hart,Not Placed,Full-time,Brainverse,Digital Marketing,NA,89406.09
+Batch A,Letta Gazey,Placed,Part-time,Feedbug,Marketing Automation,3 Lakh - 4 Lakh,45466.6
+Batch B,Codi Orringe,Not Placed,Full-time,Zoomcast,Brand Strategist,2 Lakh - 3 Lakh,84569.34
+Batch C,Jorgan Astley,Pending,Part-time,Wordpedia,CopyWriting,4 Lakh - 5 Lakh,65888.78
+Batch C,Shea Prandini,Pending,Full-time,Devbug,Marketing Automation,5 Lakh - 6 Lakh,37109.85
+Batch B,Chip Qualtro,Pending,Full-time,Yodel,Email Marketing,<1 Lakh,49929.95
+Batch C,Nikolai MacManus,Placed,Internship,Gigabox,Marketing,<1 Lakh,68218.32
+Batch C,Luisa Dawley,Placed,Full-time,Dablist,SEO,2 Lakh - 3 Lakh,62802.37
+Batch A,Aggy Hedditch,Not Placed,Full-time,Quaxo,CopyWriting,3 Lakh - 4 Lakh,72375.66
+Batch A,Sonny Orviss,Not Placed,Full-time,Meevee,Digital Marketing,4 Lakh - 5 Lakh,77833.92
+Batch B,Casi Fransinelli,Pending,Part-time,Flashpoint,Marketing Automation,2 Lakh - 3 Lakh,56910.49
+Batch B,Eryn Marfield,Pending,Part-time,Yodel,Marketing,<1 Lakh,68975.82
+Batch B,Francesca Korlat,Not Placed,Part-time,Browseblab,Marketing,<1 Lakh,99128.75
+Batch A,Norton Easseby,Pending,Full-time,Meejo,Marketing Automation,3 Lakh - 4 Lakh,32754.04
+Batch A,Linc St. Hill,Placed,Internship,Realbuzz,Marketing Automation,4 Lakh - 5 Lakh,89717.3
+Batch A,Xaviera Sauniere,Placed,Full-time,Realpoint,CopyWriting,<1 Lakh,68877.9
+Batch A,Garrick Armfirld,Pending,Part-time,Realbuzz,Marketing Automation,5 Lakh - 6 Lakh,37483.97
+Batch C,Corny Ridgley,Placed,Internship,Eimbee,Marketing Automation,<1 Lakh,62289.05
+Batch C,Matilda Kail,Placed,Part-time,Mynte,SEO,2 Lakh - 3 Lakh,38202.61
+Batch C,Francoise Lowsely,Pending,Part-time,Gabcube,Email Marketing,2 Lakh - 3 Lakh,74578.52
+Batch A,Rip Elfe,Pending,Full-time,Brightbean,Marketing Automation,<1 Lakh,89746.02
+Batch A,Adam Voller,Not Placed,Internship,Jabberstorm,Email Marketing,<1 Lakh,48473.96
+Batch C,Amabel Pioli,Placed,Part-time,Mudo,Marketing Automation,5 Lakh - 6 Lakh,73522.78
+Batch B,Rasia Calvert,Not Placed,Internship,Realfire,CopyWriting,NA,38017.91
+Batch C,Bernice Brockie,Pending,Part-time,Youtags,SEO,3 Lakh - 4 Lakh,82021.54
+Batch A,Chico Boulsher,Placed,Full-time,Twiyo,Brand Strategist,4 Lakh - 5 Lakh,46389.35
+Batch A,Ekaterina Coveney,Pending,Full-time,Babblestorm,Brand Strategist,3 Lakh - 4 Lakh,93009.23
+Batch B,Dedra Theurer,Not Placed,Part-time,Thoughtbeat,Brand Strategist,3 Lakh - 4 Lakh,37689.03
+Batch C,Jeanna Toderi,Pending,Full-time,Dynazzy,Marketing Automation,2 Lakh - 3 Lakh,68920.72
+Batch C,Constantine Batterson,Not Placed,Part-time,Brainsphere,Marketing Automation,NA,33752.17
+Batch B,Clemmy Cordner,Placed,Full-time,Yacero,Brand Strategist,3 Lakh - 4 Lakh,74862.14
+Batch A,Lari Piola,Pending,Internship,Pixonyx,SEO,2 Lakh - 3 Lakh,56928.05
+Batch B,Damara Goering,Placed,Internship,Zooveo,Marketing,3 Lakh - 4 Lakh,97731.77
+Batch C,Dietrich Maric,Pending,Full-time,Skippad,Marketing,<1 Lakh,96119.99
+Batch B,Elfrida Szubert,Placed,Internship,Thoughtbridge,Marketing Automation,4 Lakh - 5 Lakh,82140.73
+Batch A,Jazmin MacEntee,Not Placed,Internship,Skippad,Marketing,NA,82129.89
+Batch B,Camel Rutter,Pending,Internship,Tagpad,Email Marketing,4 Lakh - 5 Lakh,62322.41
+Batch C,Pippo O'Kennavain,Not Placed,Part-time,Devbug,CopyWriting,5 Lakh - 6 Lakh,80836.72
+Batch A,Addie Pogosian,Pending,Part-time,Tavu,Marketing Automation,2 Lakh - 3 Lakh,37159.55
+Batch A,Mollie Daveridge,Pending,Full-time,Skippad,Email Marketing,2 Lakh - 3 Lakh,94397.9
+Batch C,Hazel Lacrouts,Not Placed,Full-time,Kanoodle,Email Marketing,5 Lakh - 6 Lakh,38422.9
+Batch B,Sawyere Lecordier,Pending,Full-time,Thoughtbeat,Marketing,4 Lakh - 5 Lakh,39747.46
+Batch C,Beatrix Bartolijn,Placed,Part-time,Meetz,CopyWriting,4 Lakh - 5 Lakh,47751.25
+Batch B,Celina Swafield,Pending,Full-time,Devcast,CopyWriting,5 Lakh - 6 Lakh,49928.39
+Batch A,Kandace Rosenkranc,Pending,Part-time,Cogibox,Marketing Automation,5 Lakh - 6 Lakh,69634.72
+Batch B,Ailsun Still,Placed,Full-time,Mydo,Digital Marketing,3 Lakh - 4 Lakh,83345.56
+Batch A,Nicolette Loxly,Placed,Internship,Rhynyx,Marketing Automation,4 Lakh - 5 Lakh,84124.05
+Batch A,Gusella Whymark,Not Placed,Internship,Skiba,SEO,3 Lakh - 4 Lakh,34128.12
+Batch B,Donalt Trundell,Placed,Part-time,Shufflester,Brand Strategist,2 Lakh - 3 Lakh,56555.64
+Batch A,Briney Hull,Pending,Internship,Twitterwire,Marketing Automation,3 Lakh - 4 Lakh,67739.04
+Batch B,Monah Hubbold,Not Placed,Full-time,Jayo,Email Marketing,3 Lakh - 4 Lakh,95397.95
+Batch C,Antin Doorbar,Pending,Part-time,Skimia,Email Marketing,3 Lakh - 4 Lakh,87566.98
+Batch B,Emlen Fensome,Not Placed,Part-time,Trupe,Email Marketing,3 Lakh - 4 Lakh,84519.5
+Batch A,Federico Kleinhandler,Pending,Part-time,Voolith,Email Marketing,5 Lakh - 6 Lakh,85553.61
+Batch A,Channa Kiendl,Placed,Part-time,Blognation,Email Marketing,3 Lakh - 4 Lakh,62646.55
+Batch B,Ulrica Petrie,Pending,Full-time,Wikido,Marketing,5 Lakh - 6 Lakh,63097.06
+Batch A,Romain Resdale,Not Placed,Full-time,Plajo,Digital Marketing,<1 Lakh,81288.72
+Batch B,Kippie Farnell,Pending,Internship,Pixoboo,Marketing Automation,4 Lakh - 5 Lakh,58061.19
+Batch B,Harlin Strowger,Placed,Internship,Demimbu,Email Marketing,3 Lakh - 4 Lakh,76675.82
+Batch A,Darsey Loftus,Pending,Full-time,Eazzy,Digital Marketing,4 Lakh - 5 Lakh,95515.28
+Batch B,Demetre Kuhlen,Pending,Part-time,Roodel,SEO,5 Lakh - 6 Lakh,44891.07
+Batch B,Gerrard Mulles,Placed,Part-time,Topiczoom,Brand Strategist,<1 Lakh,77485.56
+Batch C,Art Spier,Placed,Internship,Gevee,Digital Marketing,NA,86234.04
+Batch C,Emlynn Iacovacci,Pending,Internship,Voonder,Digital Marketing,<1 Lakh,95972.24
+Batch A,Viola Cazin,Placed,Full-time,Feedfish,CopyWriting,2 Lakh - 3 Lakh,54641.62
+Batch C,Rosa Sier,Pending,Internship,Photolist,Digital Marketing,NA,34489.91
+Batch C,Vidovic Henker,Not Placed,Part-time,Twimbo,Brand Strategist,3 Lakh - 4 Lakh,39926.29
+Batch C,Marlyn Forgie,Pending,Internship,Plambee,Brand Strategist,3 Lakh - 4 Lakh,94519.87
+Batch C,Kristofor Tarbox,Pending,Part-time,Vitz,Marketing Automation,4 Lakh - 5 Lakh,95566.06
+Batch A,Janene Dunhill,Not Placed,Part-time,Zooveo,Email Marketing,<1 Lakh,42282.88
+Batch B,Winston Vaughan-Hughes,Not Placed,Internship,Oloo,Marketing,<1 Lakh,82903.25
+Batch C,Jocelyne Drowsfield,Not Placed,Full-time,Centidel,Marketing,4 Lakh - 5 Lakh,38861.64
+Batch C,Estevan Coward,Pending,Full-time,Linklinks,SEO,4 Lakh - 5 Lakh,31598.53
+Batch B,Isaak Gyver,Not Placed,Internship,Izio,Digital Marketing,NA,45485.22
+Batch C,Irv Preon,Not Placed,Part-time,Skipfire,Brand Strategist,<1 Lakh,62641.63
+Batch A,Leshia Kierans,Pending,Part-time,Dablist,Marketing Automation,NA,57386.3
+Batch C,Chelsey Hylden,Not Placed,Full-time,Aimbo,Marketing Automation,5 Lakh - 6 Lakh,64830.48
+Batch A,Melisa Winsborrow,Pending,Part-time,Voonder,Marketing,3 Lakh - 4 Lakh,98749.6
+Batch C,Rodrigo Cuppleditch,Not Placed,Internship,Ailane,CopyWriting,<1 Lakh,55390.5
+Batch A,Anni Swynley,Not Placed,Internship,Izio,Marketing,3 Lakh - 4 Lakh,82856.46
+Batch C,Alisander Bielefeld,Not Placed,Internship,Kwinu,Marketing Automation,2 Lakh - 3 Lakh,35202.36
+Batch B,Maude Shortan,Not Placed,Internship,Gabvine,Marketing,NA,60103.29
+Batch B,Arny Joddins,Pending,Full-time,BlogXS,Brand Strategist,3 Lakh - 4 Lakh,32295.53
+Batch A,Calhoun Iles,Not Placed,Full-time,Livetube,CopyWriting,5 Lakh - 6 Lakh,50057.94
+Batch C,Livvyy Radband,Pending,Part-time,Snaptags,Digital Marketing,<1 Lakh,50331.02
+Batch B,Emelina Gillogley,Pending,Part-time,Feedspan,SEO,NA,71087.39
+Batch C,Thaine Di Bartolommeo,Not Placed,Part-time,Quatz,Marketing,5 Lakh - 6 Lakh,76706.54
+Batch C,Maudie Lammin,Placed,Internship,Mudo,Email Marketing,3 Lakh - 4 Lakh,84043.38
+Batch B,Dwain Edgeller,Not Placed,Full-time,Gigaclub,Marketing Automation,4 Lakh - 5 Lakh,63888.99
+Batch B,Cyndy Doogood,Placed,Part-time,Twiyo,Digital Marketing,4 Lakh - 5 Lakh,89693.4
+Batch B,Michaela Archdeckne,Not Placed,Part-time,Omba,Email Marketing,<1 Lakh,58871.43
+Batch B,Rozalie Draco,Placed,Full-time,Babbleblab,Brand Strategist,<1 Lakh,95103.18
+Batch C,Bobbie Perrat,Pending,Full-time,Meevee,Digital Marketing,4 Lakh - 5 Lakh,55045.22
+Batch B,Gerianne Gottschalk,Not Placed,Part-time,Oloo,Digital Marketing,2 Lakh - 3 Lakh,52035.64
+Batch B,Roanna Lindenblatt,Pending,Internship,Quaxo,Marketing Automation,3 Lakh - 4 Lakh,92345.74
+Batch B,Hazlett Flute,Pending,Part-time,Eire,Brand Strategist,NA,59968.68
+Batch B,Rivalee McCadden,Pending,Internship,Feedspan,CopyWriting,<1 Lakh,72043.02
+Batch C,Erwin Butterfill,Not Placed,Internship,Jabbersphere,Email Marketing,4 Lakh - 5 Lakh,82110.95
+Batch B,Brice Wigginton,Not Placed,Internship,Linklinks,Marketing Automation,5 Lakh - 6 Lakh,76636.17
+Batch A,Gayel Degnen,Pending,Part-time,Kanoodle,Digital Marketing,<1 Lakh,56033.13
+Batch C,Meyer Rumble,Pending,Full-time,Mymm,SEO,5 Lakh - 6 Lakh,74890.34
+Batch A,Alana Instone,Placed,Internship,Thoughtbridge,Digital Marketing,3 Lakh - 4 Lakh,94229.79
+Batch B,Thor Fearnehough,Placed,Full-time,Oyope,Marketing Automation,4 Lakh - 5 Lakh,70681.97
+Batch A,Josi Copper,Not Placed,Part-time,InnoZ,Brand Strategist,<1 Lakh,35656.27
+Batch A,Charlotta Bortolussi,Not Placed,Part-time,Kimia,Marketing Automation,NA,52035.12
+Batch B,Roxane Semrad,Not Placed,Full-time,Jaloo,Email Marketing,<1 Lakh,31119.98
+Batch A,Verile Ilyas,Placed,Internship,Shuffledrive,Digital Marketing,3 Lakh - 4 Lakh,60111.41
+Batch B,Verina Alberti,Placed,Internship,Wikizz,CopyWriting,NA,30390.87
+Batch C,Rani Giacomini,Placed,Part-time,Voomm,Marketing,4 Lakh - 5 Lakh,88464.97
+Batch B,Debee Gabites,Not Placed,Part-time,DabZ,Brand Strategist,2 Lakh - 3 Lakh,50221.34
+Batch B,Hurley Gregoretti,Pending,Full-time,Demivee,Brand Strategist,<1 Lakh,37178.12
+Batch B,Wallie Sprowle,Pending,Full-time,Youspan,Email Marketing,3 Lakh - 4 Lakh,43274.74
+Batch B,Evangelia Hancell,Placed,Full-time,Twitterworks,Marketing Automation,3 Lakh - 4 Lakh,35171.05
+Batch B,Manfred Gentry,Not Placed,Full-time,Jaxworks,CopyWriting,4 Lakh - 5 Lakh,86850.89
+Batch A,Ancell Klasen,Pending,Internship,Skaboo,CopyWriting,NA,54292.1
+Batch C,Alick Whillock,Pending,Full-time,Avamm,SEO,2 Lakh - 3 Lakh,85426.11
+Batch C,Jason Frediani,Placed,Full-time,Photobug,CopyWriting,NA,90124.99
+Batch B,Dominique Assard,Placed,Full-time,Photofeed,Digital Marketing,3 Lakh - 4 Lakh,31401.87
+Batch B,Teodor Koene,Pending,Part-time,Buzzdog,Digital Marketing,3 Lakh - 4 Lakh,49029.35
+Batch A,Berne Lenglet,Placed,Part-time,Leenti,SEO,NA,54866.71
+Batch A,Filberto Ivakhin,Placed,Full-time,Myworks,SEO,3 Lakh - 4 Lakh,92240.55
+Batch B,Archibold Hibling,Placed,Internship,Youspan,Marketing Automation,NA,60264.04
+Batch A,Babb Cloney,Not Placed,Part-time,Livepath,CopyWriting,3 Lakh - 4 Lakh,34553.41
+Batch A,Sergeant Shere,Placed,Full-time,Devshare,Marketing,<1 Lakh,67867.9
+Batch C,Kynthia Huett,Pending,Part-time,Jabbersphere,Marketing Automation,<1 Lakh,31335.1
+Batch A,Brose Blaylock,Placed,Part-time,Livefish,Digital Marketing,5 Lakh - 6 Lakh,78262.04
+Batch B,Nickie Maccree,Not Placed,Part-time,Demimbu,Email Marketing,NA,73526.89
+Batch C,Christy Mudd,Pending,Full-time,Meedoo,Marketing Automation,NA,44777.16
+Batch C,Keeley Vivash,Pending,Full-time,Lazz,Email Marketing,<1 Lakh,62480.23
+Batch A,Adiana Northall,Placed,Part-time,Centizu,SEO,3 Lakh - 4 Lakh,43727.06
+Batch C,Kristo Fagg,Not Placed,Internship,Quimba,SEO,3 Lakh - 4 Lakh,58773.83
+Batch B,Rocky Lissandrini,Not Placed,Internship,Twitterwire,CopyWriting,2 Lakh - 3 Lakh,88155.77
+Batch B,Oates Witchalls,Pending,Part-time,Twitterworks,CopyWriting,2 Lakh - 3 Lakh,43395.68
+Batch A,Jerald Truswell,Pending,Full-time,Yabox,Marketing Automation,3 Lakh - 4 Lakh,55969.73
+Batch C,Maggie Chucks,Placed,Full-time,Edgeblab,Marketing,2 Lakh - 3 Lakh,64716.81
+Batch A,Andriana Stockey,Pending,Full-time,Leenti,SEO,2 Lakh - 3 Lakh,36242.58
+Batch B,Courtnay Winslett,Not Placed,Internship,Trunyx,Email Marketing,NA,80300.94
+Batch B,Corbin Redmore,Not Placed,Part-time,Babbleset,Email Marketing,4 Lakh - 5 Lakh,45300.78
+Batch C,Trever Gilardoni,Not Placed,Part-time,InnoZ,Email Marketing,4 Lakh - 5 Lakh,30665.51
+Batch A,Benson Garnsworthy,Pending,Full-time,Feednation,Email Marketing,NA,76536.77
+Batch C,Sancho Haimes,Not Placed,Internship,Bluezoom,SEO,5 Lakh - 6 Lakh,93514.01
+Batch A,Der Clineck,Pending,Full-time,Skyble,Marketing Automation,NA,87450.82
+Batch A,Sena Collelton,Pending,Part-time,Skinder,Email Marketing,3 Lakh - 4 Lakh,92426.41
+Batch A,Mariejeanne Raeside,Placed,Internship,Ntags,CopyWriting,4 Lakh - 5 Lakh,34187.75
+Batch B,Henrieta Menilove,Placed,Part-time,Rhyloo,Email Marketing,3 Lakh - 4 Lakh,64404.93
+Batch A,Kim Tansley,Pending,Part-time,Fliptune,SEO,<1 Lakh,48501.51
+Batch B,Demott Conrad,Not Placed,Internship,Trudoo,Brand Strategist,5 Lakh - 6 Lakh,91937.97
+Batch C,Maressa Cowland,Pending,Full-time,Kwimbee,Digital Marketing,4 Lakh - 5 Lakh,87823.93
+Batch B,Gene Prinne,Not Placed,Internship,Tavu,SEO,NA,50115.51
+Batch C,Rosanne Haythorn,Placed,Internship,Feedfire,Digital Marketing,3 Lakh - 4 Lakh,82440.97
+Batch A,Ramsey Riply,Not Placed,Part-time,Abata,Digital Marketing,<1 Lakh,90291.02
+Batch B,Jada Gherardini,Pending,Full-time,Skinte,CopyWriting,5 Lakh - 6 Lakh,57076.73
+Batch A,Prince Donan,Pending,Full-time,JumpXS,SEO,4 Lakh - 5 Lakh,71505.42
+Batch B,Margi Prynne,Placed,Internship,Thoughtmix,Brand Strategist,2 Lakh - 3 Lakh,36187.4
+Batch A,Leyla Mulryan,Pending,Internship,Brainverse,Email Marketing,3 Lakh - 4 Lakh,45434.14
+Batch C,Isidoro Deeves,Pending,Internship,Demimbu,SEO,<1 Lakh,78600.48
+Batch B,Lilith Node,Not Placed,Full-time,Katz,Marketing Automation,NA,64096.02
+Batch B,Constantine Wombwell,Not Placed,Full-time,Zoombox,Email Marketing,3 Lakh - 4 Lakh,96174.15
+Batch B,Bailey Sergison,Not Placed,Part-time,Linktype,Brand Strategist,<1 Lakh,40144.6
+Batch C,Birgit McDonnell,Not Placed,Full-time,Skinder,Marketing Automation,NA,84839.79
+Batch C,Joanne Janosevic,Placed,Internship,Myworks,SEO,3 Lakh - 4 Lakh,71761.32
+Batch C,Maddie Badman,Placed,Internship,Jaxworks,Marketing,2 Lakh - 3 Lakh,87970.07
+Batch B,Alonzo Sedcole,Not Placed,Part-time,Photospace,Marketing Automation,2 Lakh - 3 Lakh,31189.27
+Batch B,Millisent Hornig,Placed,Full-time,Skiba,Marketing Automation,3 Lakh - 4 Lakh,33511.05
+Batch C,Livvy Landor,Placed,Part-time,Topdrive,Brand Strategist,<1 Lakh,34681.77
+Batch C,Benny Goomes,Pending,Internship,Einti,CopyWriting,4 Lakh - 5 Lakh,37859.51
+Batch A,Barth Gwillym,Pending,Part-time,Gabcube,Brand Strategist,4 Lakh - 5 Lakh,50740.66
+Batch B,Umberto Stable,Pending,Internship,Skimia,Digital Marketing,2 Lakh - 3 Lakh,95247.34
+Batch A,Brannon Aikett,Placed,Internship,Quire,Marketing Automation,4 Lakh - 5 Lakh,79491.96
+Batch C,Sheela Malloch,Pending,Internship,Zava,Marketing Automation,<1 Lakh,76542.79
+Batch A,Devan Garie,Placed,Part-time,Livepath,Email Marketing,4 Lakh - 5 Lakh,72364.66
+Batch A,Loise Gadsden,Placed,Internship,Aivee,CopyWriting,<1 Lakh,70933.07
+Batch C,Shay Govini,Placed,Part-time,Skynoodle,Marketing,5 Lakh - 6 Lakh,47261.13
+Batch C,Calhoun Jobbings,Placed,Full-time,Dabjam,CopyWriting,2 Lakh - 3 Lakh,79035.15
+Batch A,Tanya Drewe,Pending,Part-time,Yacero,Brand Strategist,NA,58402.32
+Batch C,Gwenore Fennessy,Placed,Part-time,Yoveo,SEO,NA,76993.95
+Batch C,Colas Bowlands,Placed,Part-time,Yotz,Marketing,<1 Lakh,85582.67
+Batch B,Leandra Belt,Placed,Part-time,Twitterworks,Email Marketing,3 Lakh - 4 Lakh,50146.58
+Batch C,Tybie Meller,Placed,Part-time,Trupe,CopyWriting,5 Lakh - 6 Lakh,84253.54
+Batch A,Dulci Durrand,Placed,Full-time,Livefish,Email Marketing,4 Lakh - 5 Lakh,94334.76
+Batch B,Rowen Swift,Pending,Full-time,Fadeo,Digital Marketing,4 Lakh - 5 Lakh,78166.37
+Batch B,Moselle Knewstubb,Not Placed,Part-time,Skajo,Email Marketing,5 Lakh - 6 Lakh,55682.33
+Batch B,Jane Titmarsh,Pending,Part-time,Vidoo,SEO,5 Lakh - 6 Lakh,66721.34
+Batch C,Annamarie Gammet,Not Placed,Full-time,Youbridge,CopyWriting,3 Lakh - 4 Lakh,98544.64
+Batch B,Cymbre Rizzelli,Not Placed,Internship,Mymm,Brand Strategist,5 Lakh - 6 Lakh,53469.13
+Batch B,Kerianne Curless,Pending,Internship,Edgewire,SEO,3 Lakh - 4 Lakh,83901.38
+Batch B,Oralia Janikowski,Not Placed,Internship,Roombo,CopyWriting,2 Lakh - 3 Lakh,82185.87
+Batch B,Dawn Davion,Placed,Internship,Twitterlist,Marketing,2 Lakh - 3 Lakh,80324.94
+Batch C,Adolpho Scamp,Not Placed,Part-time,Zooxo,CopyWriting,NA,68358.07
+Batch B,Joice Benettolo,Not Placed,Part-time,Latz,Brand Strategist,4 Lakh - 5 Lakh,92851.66
+Batch B,Sophronia Flewett,Pending,Full-time,Twinder,SEO,<1 Lakh,43696.66
+Batch B,Wallace Everiss,Placed,Part-time,Meejo,Marketing,2 Lakh - 3 Lakh,82582.44
+Batch B,Sergei Piggins,Placed,Part-time,Rhyzio,SEO,5 Lakh - 6 Lakh,57604.51
+Batch A,Olympia Rishworth,Pending,Part-time,Riffpath,Email Marketing,<1 Lakh,51965.89
+Batch B,Archibald Alwell,Not Placed,Full-time,Tagfeed,Brand Strategist,NA,98581.18
+Batch A,Mehetabel Shay,Pending,Full-time,Shuffledrive,Email Marketing,3 Lakh - 4 Lakh,49772.52
+Batch B,Dottie Cadalleder,Not Placed,Internship,Dynabox,CopyWriting,3 Lakh - 4 Lakh,36267.47
+Batch C,Esmeralda Prisk,Placed,Internship,Kwinu,Marketing Automation,2 Lakh - 3 Lakh,64624.81
+Batch C,Lavina McGuggy,Pending,Internship,Yakijo,Marketing Automation,NA,67927.6
+Batch B,Auberta Scothorne,Pending,Internship,Topicblab,Brand Strategist,3 Lakh - 4 Lakh,84598.05
+Batch C,Hervey Roomes,Pending,Full-time,Shuffletag,Marketing Automation,NA,31557.56
+Batch A,Ariella Fuidge,Not Placed,Full-time,Eabox,Marketing Automation,5 Lakh - 6 Lakh,50128.08
+Batch B,Klarika Gatcliff,Not Placed,Full-time,Divape,SEO,<1 Lakh,37893.78
+Batch C,Margalit Wellbelove,Pending,Full-time,Dynazzy,Email Marketing,NA,78166.5
+Batch A,Debera Dorman,Pending,Part-time,Zoonoodle,Marketing,2 Lakh - 3 Lakh,46166.45
+Batch B,Lindsay Matuszyk,Placed,Internship,Thoughtworks,Brand Strategist,NA,87293.6
+Batch B,Joete Biddles,Not Placed,Internship,Kwinu,Brand Strategist,4 Lakh - 5 Lakh,75296.11
+Batch A,Hubie Smythin,Placed,Full-time,Thoughtstorm,Marketing,NA,61750.64
+Batch A,Georgeta Tocque,Pending,Full-time,Thoughtbeat,Marketing,3 Lakh - 4 Lakh,78290.61
+Batch A,Page Haeslier,Not Placed,Internship,Yozio,Marketing Automation,3 Lakh - 4 Lakh,59871.33
+Batch C,Lulu Cafe,Pending,Full-time,Kwimbee,Email Marketing,<1 Lakh,52216.97
+Batch A,Minor Hoovart,Placed,Part-time,Eabox,Digital Marketing,4 Lakh - 5 Lakh,47872.63
+Batch A,Skipp Roughsedge,Not Placed,Internship,Trilith,Brand Strategist,4 Lakh - 5 Lakh,57062.98
+Batch C,Christy Mustoe,Not Placed,Full-time,Feedfish,Email Marketing,2 Lakh - 3 Lakh,90287.67
+Batch B,Gordie Stivani,Placed,Full-time,Tambee,Digital Marketing,2 Lakh - 3 Lakh,83783.48
+Batch A,Tessie Huggons,Placed,Internship,Kwinu,Marketing,NA,66118.85
+Batch B,Caterina Blonden,Not Placed,Internship,Gigabox,Marketing Automation,3 Lakh - 4 Lakh,96613.11
+Batch B,Basil Goulding,Not Placed,Part-time,Edgewire,Email Marketing,5 Lakh - 6 Lakh,44179.36
+Batch A,Stavros Threadgould,Placed,Part-time,Jabberstorm,Marketing,2 Lakh - 3 Lakh,64408.45
+Batch B,Kayle Bowra,Not Placed,Full-time,Rhycero,Brand Strategist,NA,55194.5
+Batch A,Devi Haggith,Pending,Part-time,Twinder,Email Marketing,2 Lakh - 3 Lakh,58943.62
+Batch B,Mart Coggan,Not Placed,Full-time,Vipe,Marketing Automation,3 Lakh - 4 Lakh,56240.23
+Batch C,Karl Mose,Pending,Part-time,Oyoba,Email Marketing,3 Lakh - 4 Lakh,88514.19
+Batch A,Logan Quinnelly,Pending,Part-time,Voolith,Marketing Automation,4 Lakh - 5 Lakh,51249.97
+Batch B,Lenette Wormstone,Not Placed,Part-time,Skynoodle,Marketing,5 Lakh - 6 Lakh,46529.31
+Batch C,Donn Woodington,Not Placed,Internship,Tagopia,Email Marketing,NA,68018.07
+Batch A,Juliann Gross,Not Placed,Part-time,Plajo,Brand Strategist,5 Lakh - 6 Lakh,62455.87
+Batch B,Sigismondo Willars,Not Placed,Full-time,Fivechat,SEO,NA,97807.55
+Batch A,Stefanie Glennard,Not Placed,Full-time,Npath,Marketing,2 Lakh - 3 Lakh,66413.9
+Batch C,Nerti Tesdale,Not Placed,Internship,Skaboo,Marketing Automation,<1 Lakh,85368.96
+Batch C,Vasili Kopke,Pending,Full-time,Zoomlounge,Marketing,3 Lakh - 4 Lakh,76644.95
+Batch B,Krystal Blount,Pending,Internship,Tagpad,Marketing,3 Lakh - 4 Lakh,79900.75
+Batch B,Damiano Rispine,Pending,Full-time,Oyonder,Marketing,4 Lakh - 5 Lakh,70435.35
+Batch A,Orella Gritskov,Pending,Internship,Dabtype,Marketing Automation,5 Lakh - 6 Lakh,58422.97
+Batch C,Dniren Duer,Not Placed,Full-time,Feedbug,Marketing,3 Lakh - 4 Lakh,87788.43
+Batch B,Robby Rameau,Placed,Full-time,Kwinu,Email Marketing,3 Lakh - 4 Lakh,57310.1
+Batch C,Eden Besant,Not Placed,Part-time,Ainyx,Email Marketing,5 Lakh - 6 Lakh,84011.78
+Batch A,Domeniga Adrianello,Not Placed,Internship,Brightbean,Marketing Automation,<1 Lakh,57009.86
+Batch B,Zachary Cantrell,Placed,Internship,DabZ,SEO,3 Lakh - 4 Lakh,50497.99
+Batch B,Giffie Milburne,Pending,Internship,Flashpoint,Marketing Automation,4 Lakh - 5 Lakh,38852.42
